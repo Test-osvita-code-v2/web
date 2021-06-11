@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://Test-osvita-code-v2.github.io/web/web/sitemap.xml
+Sitemap: https://test-osvita-code-v2.github.io/web/web/sitemap.xml

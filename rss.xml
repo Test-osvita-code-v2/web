@@ -1,21 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://Test-osvita-code-v2.github.io/web/web/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://test-osvita-code-v2.github.io/web/web/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Osvita-Code | Основи веб програмування</title>
-    <link>https://Test-osvita-code-v2.github.io/web/web/</link>
-    <description>A project of vuepress-theme-hope</description>
+    <link>https://test-osvita-code-v2.github.io/web/web/</link>
+    <description>Web programming by osvita-code</description>
     <language>en-US</language>
-    <pubDate>Fri, 11 Jun 2021 13:53:03 GMT</pubDate>
-    <lastBuildDate>Fri, 11 Jun 2021 13:53:03 GMT</lastBuildDate>
+    <pubDate>Fri, 11 Jun 2021 17:14:22 GMT</pubDate>
+    <lastBuildDate>Fri, 11 Jun 2021 17:14:22 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by RenatTOP</copyright>
     <item>
+      <title>Web programming</title>
+      <link>https://test-osvita-code-v2.github.io/web/web/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">Web programming</source>
+      <description>Web programming</description>
+      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="web-programming"> Web programming</h1>
+<Redirect to="/lessons/" />
+]]></content:encoded>
+    </item>
+    <item>
+      <title>AJAX and Libraries</title>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/10/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/10/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">AJAX and Libraries</source>
+      <description>Hello AJAX</description>
+      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="ajax-and-libraries"> AJAX and Libraries</h1>
+<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
+<ul>
+<li><a href="https://btholt.github.io/intro-to-web-dev-v2/ajax/" target="_blank" rel="noopener noreferrer">AJAX</a></li>
+<li><a href="https://btholt.github.io/intro-to-web-dev-v2/libraries/" target="_blank" rel="noopener noreferrer">Integrating with Other People's Libraries</a></li>
+</ul>
+<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
+<p>Виконайте наступні вправи:</p>
+<ul>
+<li><a href="https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036" target="_blank" rel="noopener noreferrer">CSV representation of array</a></li>
+<li><a href="https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce" target="_blank" rel="noopener noreferrer">Multiplication table for number</a></li>
+<li><a href="https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba" target="_blank" rel="noopener noreferrer">Type of sum</a></li>
+<li><a href="https://www.codewars.com/kata/5a2be17aee1aaefe2a000151" target="_blank" rel="noopener noreferrer">Array plus array</a></li>
+<li><a href="https://www.codewars.com/kata/5a2b703dc5e2845c0900005a" target="_blank" rel="noopener noreferrer">Can we divide it?</a></li>
+</ul>
+<h3 id="домашнє-завдання"> Домашнє завдання</h3>
+<ul>
+<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">&quot;Пройдіть до кінця увесь курс&quot;</a></li>
+<li><a href="https://www.codewars.com/kata/5a0be7ea8ba914fc9c00006b" target="_blank" rel="noopener noreferrer">The falling speed of petals</a></li>
+<li><a href="https://www.codewars.com/kata/5a023c426975981341000014" target="_blank" rel="noopener noreferrer">Third Angle of a Triangle</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Learn How the Web Works</title>
-      <link>https://Test-osvita-code-v2.github.io/web/web/lessons/1/</link>
-      <guid>https://Test-osvita-code-v2.github.io/web/web/lessons/1/</guid>
-      <source url="https://Test-osvita-code-v2.github.io/web/web/rss.xml">Learn How the Web Works</source>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/1/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/1/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">Learn How the Web Works</source>
       <description>Пройдемо перше заняття по веб програмуванню</description>
       <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="learn-how-the-web-works"> Learn How the Web Works</h1>
@@ -96,58 +137,10 @@
       <enclosure url="https://test-osvita-code-v2.github.io/web/assets/images/c-s.png" type="image/png"/>
     </item>
     <item>
-      <title>AJAX and Libraries</title>
-      <link>https://Test-osvita-code-v2.github.io/web/web/lessons/10/</link>
-      <guid>https://Test-osvita-code-v2.github.io/web/web/lessons/10/</guid>
-      <source url="https://Test-osvita-code-v2.github.io/web/web/rss.xml">AJAX and Libraries</source>
-      <description>Hello AJAX</description>
-      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="ajax-and-libraries"> AJAX and Libraries</h1>
-<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
-<ul>
-<li><a href="https://btholt.github.io/intro-to-web-dev-v2/ajax/" target="_blank" rel="noopener noreferrer">AJAX</a></li>
-<li><a href="https://btholt.github.io/intro-to-web-dev-v2/libraries/" target="_blank" rel="noopener noreferrer">Integrating with Other People's Libraries</a></li>
-</ul>
-<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
-<p>Виконайте наступні вправи:</p>
-<ul>
-<li><a href="https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036" target="_blank" rel="noopener noreferrer">CSV representation of array</a></li>
-<li><a href="https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce" target="_blank" rel="noopener noreferrer">Multiplication table for number</a></li>
-<li><a href="https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba" target="_blank" rel="noopener noreferrer">Type of sum</a></li>
-<li><a href="https://www.codewars.com/kata/5a2be17aee1aaefe2a000151" target="_blank" rel="noopener noreferrer">Array plus array</a></li>
-<li><a href="https://www.codewars.com/kata/5a2b703dc5e2845c0900005a" target="_blank" rel="noopener noreferrer">Can we divide it?</a></li>
-</ul>
-<h3 id="домашнє-завдання"> Домашнє завдання</h3>
-<ul>
-<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">&quot;Пройдіть до кінця увесь курс&quot;</a></li>
-<li><a href="https://www.codewars.com/kata/5a0be7ea8ba914fc9c00006b" target="_blank" rel="noopener noreferrer">The falling speed of petals</a></li>
-<li><a href="https://www.codewars.com/kata/5a023c426975981341000014" target="_blank" rel="noopener noreferrer">Third Angle of a Triangle</a></li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Web programming</title>
-      <link>https://Test-osvita-code-v2.github.io/web/web/</link>
-      <guid>https://Test-osvita-code-v2.github.io/web/web/</guid>
-      <source url="https://Test-osvita-code-v2.github.io/web/web/rss.xml">Web programming</source>
-      <description>Web programming</description>
-      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="web-programming"> Web programming</h1>
-<h2 id="home-trueheroimage-assets-images-web-jpgherotext-вебпрограмуванняtagline-навчись-створювати-саитиfooter-web-programming"> &lt;!-- ---
-home: true
-heroImage: assets/images/web.jpg
-heroText: Вебпрограмування
-tagline: Навчись створювати сайти
-footer: Web-programming</h2>
-<p>--&gt;
-<Redirect to="/lessons/" /></p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>GIT</title>
-      <link>https://Test-osvita-code-v2.github.io/web/web/lessons/11/</link>
-      <guid>https://Test-osvita-code-v2.github.io/web/web/lessons/11/</guid>
-      <source url="https://Test-osvita-code-v2.github.io/web/web/rss.xml">GIT</source>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/11/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/11/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">GIT</source>
       <description>Hello GIT</description>
       <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="git"> GIT</h1>
@@ -194,7 +187,7 @@ $ <span>git</span> commit -m <span>'initial project version'</span>
 <div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><h4 id="клонирование-репозитория-осуществляется-командои"> Клонирование репозитория осуществляется командой</h4>
 <div><pre><code>$ <span>git</span> clone <span>[</span>url<span>]</span>
 </code></pre>
-<div><span>1</span><br></div></div><p>Основний інструмент, який використовується для визначення, * які файли в якому стані знаходяться * - це команда</p>
+<div><span>1</span><br></div></div><p>Основний інструмент, який використовується для визначення, _ які файли в якому стані знаходяться _ - це команда</p>
 <div><pre><code>$ <span>git</span> status
 </code></pre>
 <div><span>1</span><br></div></div><p>Найчастіше, у вас є група файлів, які ви не тільки не хочете автоматично додавати в репозиторій, а й бачити в списках невідстежуючих. До таких файлів зазвичай ставляться автоматично генеруються файли (різні логи, результати складання програм і т.п.). У такому випадку, ви можете створити файл <strong>.gitignore</strong> з перерахуванням шаблонів відповідних таких файлів.</p>
@@ -226,7 +219,7 @@ $ <span>git</span> commit --amend
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>Всі три команди разом дають один Комміт - другий Комміт замінює результат першого.</p>
 <p>Можна використовувати <strong>git reset HEAD &lt;файл&gt; ...</strong> для виключення з індексу.</p>
-<p>Коли ви хочете поділитися своїми напрацюваннями, вам необхідно відправити (push) їх в головний репозиторій. Команда для цього дії проста: <strong>git push [віддалений сервер] [гілка]</strong>.</p>
+<p>Коли ви хочете поділитися своїми напрацюваннями, вам необхідно відправити (push) їх в головний репозиторій. Команда для цього дії проста: <strong>git push [віддалений сервер][гілка]</strong>.</p>
 <div><pre><code>$ <span>git</span> push origin master
 </code></pre>
 <div><span>1</span><br></div></div><h4 id="псевдоніми-в-git"> Псевдоніми в Git</h4>
@@ -270,9 +263,9 @@ $ <span>git</span> merge new-feature
     </item>
     <item>
       <title>GitHub</title>
-      <link>https://Test-osvita-code-v2.github.io/web/web/lessons/12/</link>
-      <guid>https://Test-osvita-code-v2.github.io/web/web/lessons/12/</guid>
-      <source url="https://Test-osvita-code-v2.github.io/web/web/rss.xml">GitHub</source>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/12/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/12/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">GitHub</source>
       <description>Hello GitHub</description>
       <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="github"> GitHub</h1>
@@ -290,9 +283,9 @@ $ <span>git</span> merge new-feature
     </item>
     <item>
       <title>Випускні роботи учнів</title>
-      <link>https://Test-osvita-code-v2.github.io/web/web/lessons/13/</link>
-      <guid>https://Test-osvita-code-v2.github.io/web/web/lessons/13/</guid>
-      <source url="https://Test-osvita-code-v2.github.io/web/web/rss.xml">Випускні роботи учнів</source>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/13/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/13/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">Випускні роботи учнів</source>
       <description>Випускні роботи</description>
       <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="випускні-роботи-учнів"> Випускні роботи учнів</h1>
@@ -308,9 +301,9 @@ $ <span>git</span> merge new-feature
     </item>
     <item>
       <title>HTML</title>
-      <link>https://Test-osvita-code-v2.github.io/web/web/lessons/2/</link>
-      <guid>https://Test-osvita-code-v2.github.io/web/web/lessons/2/</guid>
-      <source url="https://Test-osvita-code-v2.github.io/web/web/rss.xml">HTML</source>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/2/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/2/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">HTML</source>
       <description>Пройдемо заняття по HTML</description>
       <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="html"> HTML</h1>
@@ -341,9 +334,9 @@ $ <span>git</span> merge new-feature
     </item>
     <item>
       <title>CSS</title>
-      <link>https://Test-osvita-code-v2.github.io/web/web/lessons/3/</link>
-      <guid>https://Test-osvita-code-v2.github.io/web/web/lessons/3/</guid>
-      <source url="https://Test-osvita-code-v2.github.io/web/web/rss.xml">CSS</source>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/3/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/3/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">CSS</source>
       <description>Пройдемо заняття по CSS</description>
       <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="css"> CSS</h1>
@@ -376,9 +369,9 @@ $ <span>git</span> merge new-feature
     </item>
     <item>
       <title>CSS Grid Layout</title>
-      <link>https://Test-osvita-code-v2.github.io/web/web/lessons/4/</link>
-      <guid>https://Test-osvita-code-v2.github.io/web/web/lessons/4/</guid>
-      <source url="https://Test-osvita-code-v2.github.io/web/web/rss.xml">CSS Grid Layout</source>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/4/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/4/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">CSS Grid Layout</source>
       <description>Вивчимо CSS Grid Layout</description>
       <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="css-grid-layout"> CSS Grid Layout</h1>
@@ -461,9 +454,9 @@ $ <span>git</span> merge new-feature
     </item>
     <item>
       <title>Command Line</title>
-      <link>https://Test-osvita-code-v2.github.io/web/web/lessons/6/</link>
-      <guid>https://Test-osvita-code-v2.github.io/web/web/lessons/6/</guid>
-      <source url="https://Test-osvita-code-v2.github.io/web/web/rss.xml">Command Line</source>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/6/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/6/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">Command Line</source>
       <description>Command Line</description>
       <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="command-line"> Command Line</h1>
@@ -492,42 +485,10 @@ $ <span>git</span> merge new-feature
 ]]></content:encoded>
     </item>
     <item>
-      <title>Вступ до JavaScript</title>
-      <link>https://Test-osvita-code-v2.github.io/web/web/lessons/7/</link>
-      <guid>https://Test-osvita-code-v2.github.io/web/web/lessons/7/</guid>
-      <source url="https://Test-osvita-code-v2.github.io/web/web/rss.xml">Вступ до JavaScript</source>
-      <description>Hello JavaScript</description>
-      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="вступ-до-javascript"> Вступ до JavaScript</h1>
-<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
-<ul>
-<li><a href="https://btholt.github.io/intro-to-web-dev-v2/programming-fundamentals/" target="_blank" rel="noopener noreferrer">Programming Fundamentals</a></li>
-</ul>
-<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
-<p>Зареєструйтесь, будь ласка ось тут - <a href="https://www.codewars.com/r/myfRzw" target="_blank" rel="noopener noreferrer">codewars.com</a><br>
-Впишіть ваш клан, як <code>siversk</code><br>
-Перед реєстрацією вам потрібно буде вибрати мову, натисніть, наприклад, на JavaScript, не зважайте зараз на це особливої уваги</p>
-<p><img src="https://test-osvita-code-v2.github.io/web/assets/images/lang.png" alt="lang" /></p>
-<p>та, щоб зрозуміти чи ви реальна людина, вам сервіс запропонує виконати вправу, зробіть ось так</p>
-<p><img src="https://test-osvita-code-v2.github.io/web/assets/images/js.jpg" alt="lang" /></p>
-<p>Виконайте наступні вправи:</p>
-<ul>
-<li><a href="https://www.codewars.com/kata/multiply/train/javascript" target="_blank" rel="noopener noreferrer">multiply</a></li>
-<li><a href="https://www.codewars.com/kata/opposite-number/train/javascript" target="_blank" rel="noopener noreferrer">opposite-number</a></li>
-</ul>
-<h3 id="домашнє-завдання"> Домашнє завдання</h3>
-<ul>
-<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">&quot;Арифметика&quot;, &quot;Строки&quot;, &quot;Переменные&quot;</a></li>
-<li><a href="https://www.codewars.com/kata/sum-of-positive/train/javascript" target="_blank" rel="noopener noreferrer">sum-of-positive</a></li>
-</ul>
-]]></content:encoded>
-      <enclosure url="https://test-osvita-code-v2.github.io/web/assets/images/lang.png" type="image/png"/>
-    </item>
-    <item>
       <title>CSS Frameworks</title>
-      <link>https://Test-osvita-code-v2.github.io/web/web/lessons/5/</link>
-      <guid>https://Test-osvita-code-v2.github.io/web/web/lessons/5/</guid>
-      <source url="https://Test-osvita-code-v2.github.io/web/web/rss.xml">CSS Frameworks</source>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/5/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/5/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">CSS Frameworks</source>
       <description>Вивчимо CSS Frameworks</description>
       <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="css-frameworks"> CSS Frameworks</h1>
@@ -582,10 +543,42 @@ $ <span>git</span> merge new-feature
 ]]></content:encoded>
     </item>
     <item>
+      <title>Вступ до JavaScript</title>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/7/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/7/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">Вступ до JavaScript</source>
+      <description>Hello JavaScript</description>
+      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="вступ-до-javascript"> Вступ до JavaScript</h1>
+<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
+<ul>
+<li><a href="https://btholt.github.io/intro-to-web-dev-v2/programming-fundamentals/" target="_blank" rel="noopener noreferrer">Programming Fundamentals</a></li>
+</ul>
+<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
+<p>Зареєструйтесь, будь ласка ось тут - <a href="https://www.codewars.com/r/myfRzw" target="_blank" rel="noopener noreferrer">codewars.com</a><br>
+Впишіть ваш клан, як <code>siversk</code><br>
+Перед реєстрацією вам потрібно буде вибрати мову, натисніть, наприклад, на JavaScript, не зважайте зараз на це особливої уваги</p>
+<p><img src="https://test-osvita-code-v2.github.io/web/assets/images/lang.png" alt="lang" /></p>
+<p>та, щоб зрозуміти чи ви реальна людина, вам сервіс запропонує виконати вправу, зробіть ось так</p>
+<p><img src="https://test-osvita-code-v2.github.io/web/assets/images/js.jpg" alt="lang" /></p>
+<p>Виконайте наступні вправи:</p>
+<ul>
+<li><a href="https://www.codewars.com/kata/multiply/train/javascript" target="_blank" rel="noopener noreferrer">multiply</a></li>
+<li><a href="https://www.codewars.com/kata/opposite-number/train/javascript" target="_blank" rel="noopener noreferrer">opposite-number</a></li>
+</ul>
+<h3 id="домашнє-завдання"> Домашнє завдання</h3>
+<ul>
+<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">&quot;Арифметика&quot;, &quot;Строки&quot;, &quot;Переменные&quot;</a></li>
+<li><a href="https://www.codewars.com/kata/sum-of-positive/train/javascript" target="_blank" rel="noopener noreferrer">sum-of-positive</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://test-osvita-code-v2.github.io/web/assets/images/lang.png" type="image/png"/>
+    </item>
+    <item>
       <title>The DOM</title>
-      <link>https://Test-osvita-code-v2.github.io/web/web/lessons/9/</link>
-      <guid>https://Test-osvita-code-v2.github.io/web/web/lessons/9/</guid>
-      <source url="https://Test-osvita-code-v2.github.io/web/web/rss.xml">The DOM</source>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/9/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/9/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">The DOM</source>
       <description>Hello DOM</description>
       <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="the-dom"> The DOM</h1>
@@ -608,62 +601,24 @@ $ <span>git</span> merge new-feature
 ]]></content:encoded>
     </item>
     <item>
-      <title>Functions, Scope, Objects and Arrays</title>
-      <link>https://Test-osvita-code-v2.github.io/web/web/lessons/8/</link>
-      <guid>https://Test-osvita-code-v2.github.io/web/web/lessons/8/</guid>
-      <source url="https://Test-osvita-code-v2.github.io/web/web/rss.xml">Functions, Scope, Objects and Arrays</source>
-      <description>Hello Functions</description>
+      <title>Web programming</title>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">Web programming</source>
       <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="functions-scope-objects-and-arrays"> Functions, Scope, Objects and Arrays</h1>
-<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
-<ul>
-<li><a href="https://btholt.github.io/intro-to-web-dev-v2/functions-and-scope/" target="_blank" rel="noopener noreferrer">Functions and Scope</a></li>
-<li><a href="https://btholt.github.io/intro-to-web-dev-v2/objects-and-arrays/" target="_blank" rel="noopener noreferrer">Objects and Arrays</a></li>
-</ul>
-<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
-<p>Виконайте наступні вправи:</p>
-<ul>
-<li><a href="https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15" target="_blank" rel="noopener noreferrer">A wolf in sheep's clothing</a></li>
-<li><a href="https://www.codewars.com/kata/5c374b346a5d0f77af500a5a" target="_blank" rel="noopener noreferrer">Closest elevator</a></li>
-<li><a href="https://www.codewars.com/kata/5bb904724c47249b10000131" target="_blank" rel="noopener noreferrer">Total amount of points</a></li>
-<li><a href="https://www.codewars.com/kata/5bb0c58f484fcd170700063d" target="_blank" rel="noopener noreferrer">Pillars</a></li>
-<li><a href="https://www.codewars.com/kata/5b853229cfde412a470000d0" target="_blank" rel="noopener noreferrer">Twice as old</a></li>
-<li><a href="https://www.codewars.com/kata/5b7ea71db90cc0f17c000a5a" target="_blank" rel="noopener noreferrer">Total pressure calculation</a></li>
-<li><a href="https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e" target="_blank" rel="noopener noreferrer">Sum of differences in array</a></li>
-<li><a href="https://www.codewars.com/kata/5b68c7029756802aa2000176" target="_blank" rel="noopener noreferrer">easy logs</a></li>
-<li><a href="https://www.codewars.com/kata/5b609ebc8f47bd595e000627" target="_blank" rel="noopener noreferrer">Find the force of gravity between two objects</a></li>
-<li><a href="https://www.codewars.com/kata/5b4e779c578c6a898e0005c5" target="_blank" rel="noopener noreferrer">Draw stairs</a></li>
-</ul>
-<h3 id="домашнє-завдання"> Домашнє завдання</h3>
-<ul>
-<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">&quot;Типы данных&quot;, &quot;Вызов функций&quot;</a></li>
-<li><a href="https://www.codewars.com/kata/5b077ebdaf15be5c7f000077" target="_blank" rel="noopener noreferrer">If you can't sleep, just count sheep!!</a></li>
-<li><a href="https://www.codewars.com/kata/5ae62fcf252e66d44d00008e" target="_blank" rel="noopener noreferrer">Expressions Matter</a></li>
-<li><a href="https://www.codewars.com/kata/5ad0d8356165e63c140014d4" target="_blank" rel="noopener noreferrer">Student's Final Grade</a></li>
-<li><a href="https://www.codewars.com/kata/5aa736a455f906981800360d" target="_blank" rel="noopener noreferrer">The Feast of Many Beasts</a></li>
-<li><a href="https://www.codewars.com/kata/5a805d8cafa10f8b930005ba" target="_blank" rel="noopener noreferrer">Find Nearest square number</a></li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Web programing</title>
-      <link>https://Test-osvita-code-v2.github.io/web/web/lessons/</link>
-      <guid>https://Test-osvita-code-v2.github.io/web/web/lessons/</guid>
-      <source url="https://Test-osvita-code-v2.github.io/web/web/rss.xml">Web programing</source>
-      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="web-programing"> Web programing</h1>
+      <content:encoded><![CDATA[<h1 id="web-programming"> Web programming</h1>
 <h2 id="навчись-створювати-саити"> Навчись створювати сайти</h2>
 <p><img src="https://test-osvita-code-v2.github.io/web/assets/images/web.jpg" alt="web" /></p>
-<p><em><strong>Вебпрограмування</strong></em> — галузь веброзробки і різновид дизайну, в завдання якої входить проєктування користувальницьких вебінтерфейсів для сайтів або вебдодатків. Вебдизайнери проєктують логічну структуру вебсторінок, продумують найбільш зручні рішення подачі інформації, а також займаються художнім оформленням вебпроєкту. В результаті перетину двох галузей людської діяльності грамотний вебдизайнер повинен бути знайомий з останніми вебтехнологіями і володіти відповідними художніми якостями.</p>
+<p><strong><em>Вебпрограмування</em></strong> — галузь веброзробки і різновид дизайну, в завдання якої входить проєктування користувальницьких вебінтерфейсів для сайтів або вебдодатків. Вебдизайнери проєктують логічну структуру вебсторінок, продумують найбільш зручні рішення подачі інформації, а також займаються художнім оформленням вебпроєкту. В результаті перетину двох галузей людської діяльності грамотний вебдизайнер повинен бути знайомий з останніми вебтехнологіями і володіти відповідними художніми якостями.</p>
 <p>На цьому курсі вас чекає 12 уроків по вебпрограмуванню.</p>
 ]]></content:encoded>
       <enclosure url="https://test-osvita-code-v2.github.io/web/assets/images/web.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>Тест на перевірку знань</title>
-      <link>https://Test-osvita-code-v2.github.io/web/web/test/</link>
-      <guid>https://Test-osvita-code-v2.github.io/web/web/test/</guid>
-      <source url="https://Test-osvita-code-v2.github.io/web/web/rss.xml">Тест на перевірку знань</source>
+      <link>https://test-osvita-code-v2.github.io/web/web/test/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/test/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">Тест на перевірку знань</source>
       <description>Тест на перевірку знань</description>
       <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
       <content:encoded><![CDATA[<Test/>
@@ -816,7 +771,46 @@ $ <span>git</span> merge new-feature
         previousButton.addEventListener("click", showPreviousSlide);
         nextButton.addEventListener("click", showNextSlide);
     })();
-</script>]]></content:encoded>
+</script>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Functions, Scope, Objects and Arrays</title>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/8/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/8/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">Functions, Scope, Objects and Arrays</source>
+      <description>Hello Functions</description>
+      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="functions-scope-objects-and-arrays"> Functions, Scope, Objects and Arrays</h1>
+<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
+<ul>
+<li><a href="https://btholt.github.io/intro-to-web-dev-v2/functions-and-scope/" target="_blank" rel="noopener noreferrer">Functions and Scope</a></li>
+<li><a href="https://btholt.github.io/intro-to-web-dev-v2/objects-and-arrays/" target="_blank" rel="noopener noreferrer">Objects and Arrays</a></li>
+</ul>
+<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
+<p>Виконайте наступні вправи:</p>
+<ul>
+<li><a href="https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15" target="_blank" rel="noopener noreferrer">A wolf in sheep's clothing</a></li>
+<li><a href="https://www.codewars.com/kata/5c374b346a5d0f77af500a5a" target="_blank" rel="noopener noreferrer">Closest elevator</a></li>
+<li><a href="https://www.codewars.com/kata/5bb904724c47249b10000131" target="_blank" rel="noopener noreferrer">Total amount of points</a></li>
+<li><a href="https://www.codewars.com/kata/5bb0c58f484fcd170700063d" target="_blank" rel="noopener noreferrer">Pillars</a></li>
+<li><a href="https://www.codewars.com/kata/5b853229cfde412a470000d0" target="_blank" rel="noopener noreferrer">Twice as old</a></li>
+<li><a href="https://www.codewars.com/kata/5b7ea71db90cc0f17c000a5a" target="_blank" rel="noopener noreferrer">Total pressure calculation</a></li>
+<li><a href="https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e" target="_blank" rel="noopener noreferrer">Sum of differences in array</a></li>
+<li><a href="https://www.codewars.com/kata/5b68c7029756802aa2000176" target="_blank" rel="noopener noreferrer">easy logs</a></li>
+<li><a href="https://www.codewars.com/kata/5b609ebc8f47bd595e000627" target="_blank" rel="noopener noreferrer">Find the force of gravity between two objects</a></li>
+<li><a href="https://www.codewars.com/kata/5b4e779c578c6a898e0005c5" target="_blank" rel="noopener noreferrer">Draw stairs</a></li>
+</ul>
+<h3 id="домашнє-завдання"> Домашнє завдання</h3>
+<ul>
+<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">&quot;Типы данных&quot;, &quot;Вызов функций&quot;</a></li>
+<li><a href="https://www.codewars.com/kata/5b077ebdaf15be5c7f000077" target="_blank" rel="noopener noreferrer">If you can't sleep, just count sheep!!</a></li>
+<li><a href="https://www.codewars.com/kata/5ae62fcf252e66d44d00008e" target="_blank" rel="noopener noreferrer">Expressions Matter</a></li>
+<li><a href="https://www.codewars.com/kata/5ad0d8356165e63c140014d4" target="_blank" rel="noopener noreferrer">Student's Final Grade</a></li>
+<li><a href="https://www.codewars.com/kata/5aa736a455f906981800360d" target="_blank" rel="noopener noreferrer">The Feast of Many Beasts</a></li>
+<li><a href="https://www.codewars.com/kata/5a805d8cafa10f8b930005ba" target="_blank" rel="noopener noreferrer">Find Nearest square number</a></li>
+</ul>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
