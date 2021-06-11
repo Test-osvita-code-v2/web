@@ -1,8 +1,10 @@
 ---
 title: Тест на перевірку знань
 description: Тест на перевірку знань
+lang: uk-UA
 footer: Web programming
 ---
+
 <Test/>
 <h1>Тест на перевірку знань, як працює веб</h1>
 <div class="quiz-container">

@@ -1,7 +1,7 @@
 {
     "name": "osvita-code",
     "version": "1.0.0",
-    "description": "A project of vuepress-theme-hope",
+    "description": "Web programming by osvita-code",
     "license": "MIT",
     "scripts": {
         "build": "vuepress build src",

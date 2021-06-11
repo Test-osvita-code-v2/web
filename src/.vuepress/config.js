@@ -168,24 +168,24 @@ module.exports = config({
         pageInfo: false,
         darkmode: "switch",
         search: false,
-        hostname: "https://Test-osvita-code-v2.github.io/web/",
+        hostname: "https://test-osvita-code-v2.github.io/web/",
         logo: "/assets/images/icons/favicon-96x96.png",
         author: "RenatTOP",
 
         nav: [
             {
                 text: "Головна",
-                link: "https://osvita-code.github.io",
+                link: "https://test-osvita-code-v2.github.io",
                 target: "_self",
             },
             {
                 text: "Scratch",
-                link: "https://osvita-code.github.io/scratch",
+                link: "https://test-osvita-code-v2.github.io/scratch",
                 target: "_self",
             },
             {
                 text: "mBots",
-                link: "https://osvita-code.github.io/robot",
+                link: "https://test-osvita-code-v2.github.io/robot",
                 target: "_self",
             },
         ],
@@ -225,65 +225,5 @@ module.exports = config({
         },
 
         copyright: true,
-
-        pwa: {
-            favicon: "/favicon.ico",
-            cachePic: true,
-            apple: {
-                icon: "/assets/images/icon/apple-icon-152.png",
-                statusBarColor: "black",
-            },
-            msTile: {
-                image: "/assets/images/icon/ms-icon-144.png",
-                color: "#ffffff",
-            },
-            manifest: {
-                icons: [
-                    {
-                        src: "/assets/images/icon/chrome-mask-512.png",
-                        sizes: "512x512",
-                        purpose: "maskable",
-                        type: "image/png",
-                    },
-                    {
-                        src: "/assets/images/icon/chrome-mask-192.png",
-                        sizes: "192x192",
-                        purpose: "maskable",
-                        type: "image/png",
-                    },
-                    {
-                        src: "/assets/images/icon/chrome-512.png",
-                        sizes: "512x512",
-                        type: "image/png",
-                    },
-                    {
-                        src: "/assets/images/icon/chrome-192.png",
-                        sizes: "192x192",
-                        type: "image/png",
-                    },
-                ],
-                shortcuts: [
-                    {
-                        name: "Osvita-Code Web",
-                        short_name: "Web",
-                        url: "https://Test-osvita-code-v2/web/",
-                        icons: [
-                            {
-                                src: "/assets/images/icon/guide-maskable.png",
-                                sizes: "192x192",
-                                purpose: "maskable",
-                                type: "image/png",
-                            },
-                            {
-                                src: "/assets/images/icon/guide-monochrome.png",
-                                sizes: "192x192",
-                                purpose: "monochrome",
-                                type: "image/png",
-                            },
-                        ],
-                    },
-                ],
-            },
-        },
     },
 });
