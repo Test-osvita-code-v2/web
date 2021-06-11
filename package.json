@@ -1,0 +1,17 @@
+{
+    "name": "osvita-code",
+    "version": "1.0.0",
+    "description": "A project of vuepress-theme-hope",
+    "license": "MIT",
+    "scripts": {
+        "build": "vuepress build src",
+        "clean-dev": "nodemon --ext md,vue --watch .vuepress --watch . --exec vuepress dev src --no-cache",
+        "dev": "nodemon --ext md,vue --watch .vuepress --watch . --exec vuepress dev src",
+        "eject-theme": "vuepress eject-hope src"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.7",
+        "vuepress": "^1.8.2",
+        "vuepress-theme-hope": "^1.18.1"
+    }
+}
