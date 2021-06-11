@@ -1,5 +1,0 @@
-
-User-agent:*
-Disallow:
-
-Sitemap: https://Test-osvita-code-v2.github.io/web/web/sitemap.xml
