@@ -143,12 +143,14 @@ module.exports = config({
     ],
 
     themeConfig: {
+        contributor: false,
         pageInfo: false,
         darkmode: "switch",
         search: false,
+        pwa: false,
         hostname: "https://test-osvita-code-v2.github.io/web/",
         logo: "/assets/images/icons/favicon-96x96.png",
-        author: "RenatTOP",
+        author: "Serhii73, RenatTOP, Anat0liy12",
 
         nav: [
             {
@@ -163,7 +165,7 @@ module.exports = config({
             },
             {
                 text: "mBots",
-                link: "https://test-osvita-code-v2.github.io/robot",
+                link: "https://test-osvita-code-v2.github.io/robotics",
                 target: "_self",
             },
         ],

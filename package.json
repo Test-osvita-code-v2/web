@@ -6,11 +6,10 @@
     "scripts": {
         "build": "vuepress build src",
         "clean-dev": "nodemon --ext md,vue --watch .vuepress --watch . --exec vuepress dev src --no-cache",
-        "dev": "nodemon --ext md,vue --watch .vuepress --watch . --exec vuepress dev src",
+        "dev": "vuepress dev src --temp .temp",
         "eject-theme": "vuepress eject-hope src"
     },
     "devDependencies": {
-        "nodemon": "^2.0.7",
         "vuepress": "^1.8.2",
         "vuepress-theme-hope": "^1.18.1"
     }
