@@ -6,11 +6,11 @@
     <link>https://test-osvita-code-v2.github.io/web/web/</link>
     <description>Web programming by osvita-code</description>
     <language>en-US</language>
-    <pubDate>Fri, 11 Jun 2021 18:43:15 GMT</pubDate>
-    <lastBuildDate>Fri, 11 Jun 2021 18:43:15 GMT</lastBuildDate>
+    <pubDate>Sat, 12 Jun 2021 10:18:31 GMT</pubDate>
+    <lastBuildDate>Sat, 12 Jun 2021 10:18:31 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <copyright>Copyright by RenatTOP</copyright>
+    <copyright>Copyright by Serhii73, RenatTOP, Anat0liy12</copyright>
     <item>
       <title>Web programming</title>
       <link>https://test-osvita-code-v2.github.io/web/web/</link>
@@ -20,36 +20,6 @@
       <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="web-programming"> Web programming</h1>
 <Redirect to="/lessons/" />
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AJAX and Libraries</title>
-      <link>https://test-osvita-code-v2.github.io/web/web/lessons/10/</link>
-      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/10/</guid>
-      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">AJAX and Libraries</source>
-      <description>Hello AJAX</description>
-      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="ajax-and-libraries"> AJAX and Libraries</h1>
-<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
-<ul>
-<li><a href="https://btholt.github.io/intro-to-web-dev-v2/ajax/" target="_blank" rel="noopener noreferrer">AJAX</a></li>
-<li><a href="https://btholt.github.io/intro-to-web-dev-v2/libraries/" target="_blank" rel="noopener noreferrer">Integrating with Other People's Libraries</a></li>
-</ul>
-<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
-<p>Виконайте наступні вправи:</p>
-<ul>
-<li><a href="https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036" target="_blank" rel="noopener noreferrer">CSV representation of array</a></li>
-<li><a href="https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce" target="_blank" rel="noopener noreferrer">Multiplication table for number</a></li>
-<li><a href="https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba" target="_blank" rel="noopener noreferrer">Type of sum</a></li>
-<li><a href="https://www.codewars.com/kata/5a2be17aee1aaefe2a000151" target="_blank" rel="noopener noreferrer">Array plus array</a></li>
-<li><a href="https://www.codewars.com/kata/5a2b703dc5e2845c0900005a" target="_blank" rel="noopener noreferrer">Can we divide it?</a></li>
-</ul>
-<h3 id="домашнє-завдання"> Домашнє завдання</h3>
-<ul>
-<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">&quot;Пройдіть до кінця увесь курс&quot;</a></li>
-<li><a href="https://www.codewars.com/kata/5a0be7ea8ba914fc9c00006b" target="_blank" rel="noopener noreferrer">The falling speed of petals</a></li>
-<li><a href="https://www.codewars.com/kata/5a023c426975981341000014" target="_blank" rel="noopener noreferrer">Third Angle of a Triangle</a></li>
-</ul>
 ]]></content:encoded>
     </item>
     <item>
@@ -135,6 +105,161 @@
 </ol>
 ]]></content:encoded>
       <enclosure url="https://test-osvita-code-v2.github.io/web/assets/images/c-s.png" type="image/png"/>
+    </item>
+    <item>
+      <title>AJAX and Libraries</title>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/10/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/10/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">AJAX and Libraries</source>
+      <description>Hello AJAX</description>
+      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="ajax-and-libraries"> AJAX and Libraries</h1>
+<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
+<ul>
+<li><a href="https://btholt.github.io/intro-to-web-dev-v2/ajax/" target="_blank" rel="noopener noreferrer">AJAX</a></li>
+<li><a href="https://btholt.github.io/intro-to-web-dev-v2/libraries/" target="_blank" rel="noopener noreferrer">Integrating with Other People's Libraries</a></li>
+</ul>
+<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
+<p>Виконайте наступні вправи:</p>
+<ul>
+<li><a href="https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036" target="_blank" rel="noopener noreferrer">CSV representation of array</a></li>
+<li><a href="https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce" target="_blank" rel="noopener noreferrer">Multiplication table for number</a></li>
+<li><a href="https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba" target="_blank" rel="noopener noreferrer">Type of sum</a></li>
+<li><a href="https://www.codewars.com/kata/5a2be17aee1aaefe2a000151" target="_blank" rel="noopener noreferrer">Array plus array</a></li>
+<li><a href="https://www.codewars.com/kata/5a2b703dc5e2845c0900005a" target="_blank" rel="noopener noreferrer">Can we divide it?</a></li>
+</ul>
+<h3 id="домашнє-завдання"> Домашнє завдання</h3>
+<ul>
+<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">&quot;Пройдіть до кінця увесь курс&quot;</a></li>
+<li><a href="https://www.codewars.com/kata/5a0be7ea8ba914fc9c00006b" target="_blank" rel="noopener noreferrer">The falling speed of petals</a></li>
+<li><a href="https://www.codewars.com/kata/5a023c426975981341000014" target="_blank" rel="noopener noreferrer">Third Angle of a Triangle</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>GIT</title>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/11/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/11/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">GIT</source>
+      <description>Hello GIT</description>
+      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="git"> GIT</h1>
+<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
+<ul>
+<li><a href="https://codeguida.com/post/453" target="_blank" rel="noopener noreferrer">Git за 30 хвилин</a></li>
+</ul>
+<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
+<ul>
+<li><a href="https://learngitbranching.js.org/" target="_blank" rel="noopener noreferrer">https://learngitbranching.js.org/</a></li>
+</ul>
+<h4 id="встановлення-git-до-ubuntu"> Встановлення git до ubuntu:</h4>
+<div><pre><code><span>sudo</span> <span>apt</span> <span>install</span> <span>git</span>
+</code></pre>
+<div><span>1</span><br></div></div><p><a href="https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-Git" target="_blank" rel="noopener noreferrer">Якщо у вас mac або windows, подивіться як встановити git</a></p>
+<h4 id="налаштування-git"> Налаштування Git</h4>
+<p>Ім'я користувача</p>
+<div><pre><code>$ <span>git</span> config --global user.name <span>"firstname lastname"</span>
+$ <span>git</span> config --global user.email yourname@example.com
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p><em>Вибір редактора</em></p>
+<div><pre><code>$ <span>git</span> config --global core.editor emacs
+</code></pre>
+<div><span>1</span><br></div></div><p>Якщо ви хочете <em>перевірити використовувані налаштування</em>, можете використати команду</p>
+<div><pre><code>$ <span>git</span> config --list
+</code></pre>
+<div><span>1</span><br></div></div><p>Git <em>автоматично розмалює більшу частину свого виведення</em>, якщо ви його про це попросите.</p>
+<div><pre><code>$ <span>git</span> config --global color.ui <span>true</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>Якщо вам <em>потрібна допомога при використанні Git'а</em>, є три способи відкрити сторінку керівництва по будь-якій команді Git'а:</p>
+<div><pre><code>$ <span>git</span> <span>help</span> <span>&lt;</span>команда<span>></span>
+$ <span>git</span> <span>&lt;</span>команда<span>></span> --help
+$ <span>man</span> git-<span>&lt;</span>команда<span>></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><h4 id="створення-сховища-в-існуючому-каталозі"> Створення сховища в існуючому каталозі</h4>
+<p>Якщо ви збираєтеся почати використовувати Git для існуючого проекту, то вам необхідно перейти в проектний каталог і в командному рядку ввести</p>
+<div><pre><code>$ <span>git</span> init
+</code></pre>
+<div><span>1</span><br></div></div><p>Якщо ви хочете <em>додати під версійність контроль існуючі файли</em> (на відміну від порожнього каталогу), вам варто проіндексувати ці файли і здійснити першу фіксацію змін. Здійснити це ви можете за допомогою декількох команд git add вказують індексовані файли, а потім commit:</p>
+<div><pre><code>$ <span>git</span> <span>add</span> *.c
+$ <span>git</span> <span>add</span> README
+$ <span>git</span> commit -m <span>'initial project version'</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><h4 id="клонирование-репозитория-осуществляется-командои"> Клонирование репозитория осуществляется командой</h4>
+<div><pre><code>$ <span>git</span> clone <span>[</span>url<span>]</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>Основний інструмент, який використовується для визначення, _ які файли в якому стані знаходяться _ - це команда</p>
+<div><pre><code>$ <span>git</span> status
+</code></pre>
+<div><span>1</span><br></div></div><p>Найчастіше, у вас є група файлів, які ви не тільки не хочете автоматично додавати в репозиторій, а й бачити в списках невідстежуючих. До таких файлів зазвичай ставляться автоматично генеруються файли (різні логи, результати складання програм і т.п.). У такому випадку, ви можете створити файл <strong>.gitignore</strong> з перерахуванням шаблонів відповідних таких файлів.</p>
+<p>Якщо результат роботи команди <strong>git status</strong> недостатньо інформативний для вас - вам хочеться знати, що конкретно змінилося, а не тільки якісь файли були змінені - ви можете використовувати команду</p>
+<div><pre><code>$ <span>git</span> <span>diff</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>Видалення файлів
+Для того щоб видалити файл з Git'а, вам необхідно видалити його з відслідковуються файлів (точніше, видалити його з вашого індексу) а потім виконати Ком. Це дозволяє зробити команда</p>
+<div><pre><code>$ <span>git</span> <span>rm</span>
+</code></pre>
+<div><span>1</span><br></div></div><p><strong>git rm</strong> також видаляє файл з вашого робочого каталогу, так що ви в наступний раз не побачите його як &quot;невідстежуючий&quot;.</p>
+<p>Перегляд історії коммітов
+Після того як ви створите кілька коммітов, або ж ви склоніруете репозиторій з уже існуючою історією коммітов, ви, ймовірно, захочете озирнутися назад і дізнатися, що ж відбувалося з цим репозиторієм. Найбільш простий і в той же час потужний інструмент для цього - команда</p>
+<div><pre><code>$ <span>git</span> log
+</code></pre>
+<div><span>1</span><br></div></div><p>Знаючи ідентифікатор коммітов <em>можна подивитися що було змінено в ньому</em>:</p>
+<div><pre><code>$ <span>git</span> show 01d2c977bfe6a99f8e1e92e8ab4cb5c0ead8dd0c
+</code></pre>
+<div><span>1</span><br></div></div><p>Ідентифікатор коммітов можна скоротити до 7 символів.</p>
+<div><pre><code>$ <span>git</span> show 01d2c97
+</code></pre>
+<div><span>1</span><br></div></div><h4 id="зміна-останнього-коммітов"> Зміна останнього коммітов</h4>
+<p>Одна з типових відмін відбувається тоді, коли ви робите Комміт занадто рано, забувши додати якісь файли, або наплутали з коментарем до коммітов. Якщо вам хотілося б зробити цей Комміт ще раз, ви можете виконати commit з опцією <strong>--amend</strong>:</p>
+<div><pre><code>$ <span>git</span> commit --amend
+</code></pre>
+<div><span>1</span><br></div></div><div><pre><code>$ <span>git</span> commit -m <span>'initial commit'</span>
+$ <span>git</span> <span>add</span> forgotten_file
+$ <span>git</span> commit --amend
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>Всі три команди разом дають один Комміт - другий Комміт замінює результат першого.</p>
+<p>Можна використовувати <strong>git reset HEAD &lt;файл&gt; ...</strong> для виключення з індексу.</p>
+<p>Коли ви хочете поділитися своїми напрацюваннями, вам необхідно відправити (push) їх в головний репозиторій. Команда для цього дії проста: <strong>git push [віддалений сервер][гілка]</strong>.</p>
+<div><pre><code>$ <span>git</span> push origin master
+</code></pre>
+<div><span>1</span><br></div></div><h4 id="псевдоніми-в-git"> Псевдоніми в Git</h4>
+<p>Git не намагатиметься зробити висновок про те, яку команду ви хотіли ввести, якщо ви ввели її в повному обсязі. Якщо ви не хочете друкувати кожну команду для Git'а цілком, ви легко можете налаштувати псевдоніми (alias) для будь-якої команди за допомогою <em>git config</em>. Ось кілька прикладів псевдонімів, які ви, можливо, захочете поставити:</p>
+<div><pre><code>$ <span>git</span> config --global alias.co checkout
+$ <span>git</span> config --global alias.br branch
+$ <span>git</span> config --global alias.ci commit
+$ <span>git</span> config --global alias.st status
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>Ми навчилися додавати <em>файли</em> в індекс, але що робити якщо ми навпаки хочемо їх <em>видалити з нього</em>? Для цього нам допоможуть дві команди: <em>reset і checkout</em>.</p>
+<div><pre><code><span>git</span> reset path/to/file переводити файл зі стану staged в modified
+<span>git</span> checkout path/to/file переводить файл зі стану modified в unmodified, тобто по суті ця команда скидає зміни.
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>Хороша практика з git має на увазі відсутність Мержа коммітов при скачуванні змін в локальний репозиторій, тому використовувати <code>git pull</code> не рекомендується. Щоб історія була прямою, потрібно використовувати <code>rebase</code>, наприклад, так</p>
+<div><pre><code>$ <span>git</span> pull --rebase
+</code></pre>
+<div><span>1</span><br></div></div><h4 id="розгалуження-в-git"> Розгалуження в Git</h4>
+<p><strong>git status</strong> і <strong>git branch</strong> повідомлять нам в якій гілці ми знаходимося.
+Створення нової гілки і перемикання на неї здійснюється так:</p>
+<div><pre><code><span>git</span> checkout -b new-branch-name
+</code></pre>
+<div><span>1</span><br></div></div><p>За допомогою <strong>git checkout</strong> ми можемо перемикатися між гілками і коммітов.</p>
+<p>Злиття гілок здійснюється командою <strong>git merge</strong>. Команда git merge виконується з тієї гілки, в яку ми зливаємо зміни, а аргументом передається ім'я тієї гілки, яку ми зливаємо.</p>
+<div><pre><code>$ <span>git</span> checkout master
+$ <span>git</span> merge new-feature
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><h4 id="корисні-посилання"> Корисні посилання</h4>
+<ul>
+<li><a href="https://ru.hexlet.io/courses/intro_to_git?ref=147142" target="_blank" rel="noopener noreferrer">Курс від хекслета - системи контролю версій (GIT)</a></li>
+<li><a href="https://git-scm.com/book/ru/v2" target="_blank" rel="noopener noreferrer">Книга Pro Git, автори Scott Chacon и Ben Straub</a></li>
+<li><a href="https://try.github.io/levels/1/challenges/1" target="_blank" rel="noopener noreferrer">Туторіал від Гітхаба</a></li>
+<li><a href="https://learngitbranching.js.org/" target="_blank" rel="noopener noreferrer">Learn Git Branching</a></li>
+<li><a href="https://git-scm.com/downloads/guis" target="_blank" rel="noopener noreferrer">GUI Clients</a></li>
+<li><a href="https://github.com/k88hudson/git-flight-rules" target="_blank" rel="noopener noreferrer">Flight rules for git</a></li>
+<li><a href="https://htmlacademy.ru/blog/27-how-to-squash-commits-and-why-it-is-needed" target="_blank" rel="noopener noreferrer">Як склеїти коммітов і навіщо це потрібно</a></li>
+<li><a href="https://opensource.com/article/19/6/what-tig" target="_blank" rel="noopener noreferrer">How to use Tig to browse Git logs</a></li>
+<li><a href="https://www.freshconsulting.com/atomic-commits/" target="_blank" rel="noopener noreferrer">Keep your commits “atomic”</a></li>
+<li><a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank" rel="noopener noreferrer">Gitflow Workflow</a></li>
+</ul>
+]]></content:encoded>
     </item>
     <item>
       <title>Випускні роботи учнів</title>
@@ -241,38 +366,6 @@
 <p>Щоб не набирати текст, використовуйте таку комбінацію <code>lorem10</code>, де 10 - це скільки слів ви хочете, щоб було у реченні.</p>
 ]]></content:encoded>
       <enclosure url="https://test-osvita-code-v2.github.io/web/assets/images/darth_vader.png" type="image/png"/>
-    </item>
-    <item>
-      <title>Command Line</title>
-      <link>https://test-osvita-code-v2.github.io/web/web/lessons/6/</link>
-      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/6/</guid>
-      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">Command Line</source>
-      <description>Command Line</description>
-      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="command-line"> Command Line</h1>
-<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
-<ul>
-<li><a href="https://www.ubuntupit.com/the-50-best-linux-commands-to-run-in-the-terminal/" target="_blank" rel="noopener noreferrer">The 50 Most Useful Linux Commands To Run in the Terminal</a></li>
-<li><a href="https://linuxsurvival.com/linux-tutorial-introduction/" target="_blank" rel="noopener noreferrer">linux tutorial</a></li>
-<li><a href="https://www.digitalocean.com/community/tutorials/node-js-ubuntu-18-04-ru" target="_blank" rel="noopener noreferrer">Как установить Node.js в Ubuntu 18.04</a></li>
-</ul>
-<h3 id="how-do-i-update-ubuntu-linux-software-using-command-line"> How Do I Update Ubuntu Linux Software Using Command Line?</h3>
-<p>За допомогою команди <code>apt-get</code>:</p>
-<ul>
-<li><code>update</code> - використовується для повторної синхронізації файлів індексу пакунків з їх джерел. Індекси доступних пакетів отримуються з розташування (ів), зазначеного в /etc/apt/sources.list. Наприклад, під час використання архіву Debian ця команда отримує та сканує файли Packages.gz, щоб пакети були доступні. Оновлення завжди слід виконувати перед оновленням або дист-апгрейдом. Зверніть увагу, що загальний індикатор прогресу буде неправильним, оскільки розмір файлів пакунків не може бути відомий заздалегідь.</li>
-<li><code>upgrade</code> - використовується для встановлення найновіших версій усіх пакунків, встановлених на даний момент в системі, із джерел, перелічених у /etc/apt/sources.list. Пакети, встановлені в даний час з новими доступними версіями, отримуються та модернізуються; за жодних обставин не встановлюються встановлені пакунки або не встановлюються вже встановлені пакунки. Нові версії встановлених на даний момент пакетів, які неможливо оновити без зміни статусу інсталяції іншого пакета, залишаться в поточній версії. Спочатку потрібно виконати оновлення, щоб apt-get знав, що доступні нові версії пакетів.</li>
-</ul>
-<p>Себто треба виконати дві команди:</p>
-<ol>
-<li><code>sudo apt-get update -y</code></li>
-<li><code>sudo apt-get upgrade -y</code></li>
-</ol>
-<h3 id="домашнє-завдання"> Домашнє завдання</h3>
-<ul>
-<li><a href="https://ru.hexlet.io/courses/cli-basics" target="_blank" rel="noopener noreferrer">Основы командной строки</a></li>
-<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">Пройдіть розділ &quot;Основы&quot;</a></li>
-</ul>
-]]></content:encoded>
     </item>
     <item>
       <title>CSS Grid Layout</title>
@@ -418,6 +511,110 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>Вступ до JavaScript</title>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/7/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/7/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">Вступ до JavaScript</source>
+      <description>Hello JavaScript</description>
+      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="вступ-до-javascript"> Вступ до JavaScript</h1>
+<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
+<ul>
+<li><a href="https://btholt.github.io/intro-to-web-dev-v2/programming-fundamentals/" target="_blank" rel="noopener noreferrer">Programming Fundamentals</a></li>
+</ul>
+<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
+<p>Зареєструйтесь, будь ласка ось тут - <a href="https://www.codewars.com/r/myfRzw" target="_blank" rel="noopener noreferrer">codewars.com</a><br>
+Впишіть ваш клан, як <code>siversk</code><br>
+Перед реєстрацією вам потрібно буде вибрати мову, натисніть, наприклад, на JavaScript, не зважайте зараз на це особливої уваги</p>
+<p><img src="https://test-osvita-code-v2.github.io/web/assets/images/lang.png" alt="lang" /></p>
+<p>та, щоб зрозуміти чи ви реальна людина, вам сервіс запропонує виконати вправу, зробіть ось так</p>
+<p><img src="https://test-osvita-code-v2.github.io/web/assets/images/js.jpg" alt="lang" /></p>
+<p>Виконайте наступні вправи:</p>
+<ul>
+<li><a href="https://www.codewars.com/kata/multiply/train/javascript" target="_blank" rel="noopener noreferrer">multiply</a></li>
+<li><a href="https://www.codewars.com/kata/opposite-number/train/javascript" target="_blank" rel="noopener noreferrer">opposite-number</a></li>
+</ul>
+<h3 id="домашнє-завдання"> Домашнє завдання</h3>
+<ul>
+<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">&quot;Арифметика&quot;, &quot;Строки&quot;, &quot;Переменные&quot;</a></li>
+<li><a href="https://www.codewars.com/kata/sum-of-positive/train/javascript" target="_blank" rel="noopener noreferrer">sum-of-positive</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://test-osvita-code-v2.github.io/web/assets/images/lang.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Command Line</title>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/6/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/6/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">Command Line</source>
+      <description>Command Line</description>
+      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="command-line"> Command Line</h1>
+<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
+<ul>
+<li><a href="https://www.ubuntupit.com/the-50-best-linux-commands-to-run-in-the-terminal/" target="_blank" rel="noopener noreferrer">The 50 Most Useful Linux Commands To Run in the Terminal</a></li>
+<li><a href="https://linuxsurvival.com/linux-tutorial-introduction/" target="_blank" rel="noopener noreferrer">linux tutorial</a></li>
+<li><a href="https://www.digitalocean.com/community/tutorials/node-js-ubuntu-18-04-ru" target="_blank" rel="noopener noreferrer">Как установить Node.js в Ubuntu 18.04</a></li>
+</ul>
+<h3 id="how-do-i-update-ubuntu-linux-software-using-command-line"> How Do I Update Ubuntu Linux Software Using Command Line?</h3>
+<p>За допомогою команди <code>apt-get</code>:</p>
+<ul>
+<li><code>update</code> - використовується для повторної синхронізації файлів індексу пакунків з їх джерел. Індекси доступних пакетів отримуються з розташування (ів), зазначеного в /etc/apt/sources.list. Наприклад, під час використання архіву Debian ця команда отримує та сканує файли Packages.gz, щоб пакети були доступні. Оновлення завжди слід виконувати перед оновленням або дист-апгрейдом. Зверніть увагу, що загальний індикатор прогресу буде неправильним, оскільки розмір файлів пакунків не може бути відомий заздалегідь.</li>
+<li><code>upgrade</code> - використовується для встановлення найновіших версій усіх пакунків, встановлених на даний момент в системі, із джерел, перелічених у /etc/apt/sources.list. Пакети, встановлені в даний час з новими доступними версіями, отримуються та модернізуються; за жодних обставин не встановлюються встановлені пакунки або не встановлюються вже встановлені пакунки. Нові версії встановлених на даний момент пакетів, які неможливо оновити без зміни статусу інсталяції іншого пакета, залишаться в поточній версії. Спочатку потрібно виконати оновлення, щоб apt-get знав, що доступні нові версії пакетів.</li>
+</ul>
+<p>Себто треба виконати дві команди:</p>
+<ol>
+<li><code>sudo apt-get update -y</code></li>
+<li><code>sudo apt-get upgrade -y</code></li>
+</ol>
+<h3 id="домашнє-завдання"> Домашнє завдання</h3>
+<ul>
+<li><a href="https://ru.hexlet.io/courses/cli-basics" target="_blank" rel="noopener noreferrer">Основы командной строки</a></li>
+<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">Пройдіть розділ &quot;Основы&quot;</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>The DOM</title>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/9/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/9/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">The DOM</source>
+      <description>Hello DOM</description>
+      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="the-dom"> The DOM</h1>
+<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
+<ul>
+<li><a href="https://btholt.github.io/intro-to-web-dev-v2/dom/" target="_blank" rel="noopener noreferrer">The DOM</a></li>
+</ul>
+<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
+<ul>
+<li><a href="https://btholt.github.io/intro-to-web-dev-v2/js-project/" target="_blank" rel="noopener noreferrer">JavaScript, HTML, and CSS Project</a></li>
+</ul>
+<h3 id="домашнє-завдання"> Домашнє завдання</h3>
+<ul>
+<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">&quot;Свойства и Методы, Определение функций&quot;</a></li>
+<li><a href="https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b" target="_blank" rel="noopener noreferrer">Cat years, Dog years</a></li>
+<li><a href="https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097" target="_blank" rel="noopener noreferrer">Century From Year</a></li>
+<li><a href="https://www.codewars.com/kata/5a360620f28b82a711000047" target="_blank" rel="noopener noreferrer">Define a card suit</a></li>
+<li><a href="https://www.codewars.com/kata/5a34b80155519e1a00000009" target="_blank" rel="noopener noreferrer">Multiple of index</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Web programming</title>
+      <link>https://test-osvita-code-v2.github.io/web/web/lessons/</link>
+      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/</guid>
+      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">Web programming</source>
+      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="web-programming"> Web programming</h1>
+<h2 id="навчись-створювати-саити"> Навчись створювати сайти</h2>
+<p><img src="https://test-osvita-code-v2.github.io/web/assets/images/web.jpg" alt="web" /></p>
+<p><strong><em>Вебпрограмування</em></strong> — галузь веброзробки і різновид дизайну, в завдання якої входить проєктування користувальницьких вебінтерфейсів для сайтів або вебдодатків. Вебдизайнери проєктують логічну структуру вебсторінок, продумують найбільш зручні рішення подачі інформації, а також займаються художнім оформленням вебпроєкту. В результаті перетину двох галузей людської діяльності грамотний вебдизайнер повинен бути знайомий з останніми вебтехнологіями і володіти відповідними художніми якостями.</p>
+<p>На цьому курсі вас чекає 12 уроків по вебпрограмуванню.</p>
+]]></content:encoded>
+      <enclosure url="https://test-osvita-code-v2.github.io/web/assets/images/web.jpg" type="image/jpeg"/>
+    </item>
+    <item>
       <title>Functions, Scope, Objects and Arrays</title>
       <link>https://test-osvita-code-v2.github.io/web/web/lessons/8/</link>
       <guid>https://test-osvita-code-v2.github.io/web/web/lessons/8/</guid>
@@ -454,177 +651,6 @@
 <li><a href="https://www.codewars.com/kata/5a805d8cafa10f8b930005ba" target="_blank" rel="noopener noreferrer">Find Nearest square number</a></li>
 </ul>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>GIT</title>
-      <link>https://test-osvita-code-v2.github.io/web/web/lessons/11/</link>
-      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/11/</guid>
-      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">GIT</source>
-      <description>Hello GIT</description>
-      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="git"> GIT</h1>
-<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
-<ul>
-<li><a href="https://codeguida.com/post/453" target="_blank" rel="noopener noreferrer">Git за 30 хвилин</a></li>
-</ul>
-<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
-<ul>
-<li><a href="https://learngitbranching.js.org/" target="_blank" rel="noopener noreferrer">https://learngitbranching.js.org/</a></li>
-</ul>
-<h4 id="встановлення-git-до-ubuntu"> Встановлення git до ubuntu:</h4>
-<div><pre><code><span>sudo</span> <span>apt</span> <span>install</span> <span>git</span>
-</code></pre>
-<div><span>1</span><br></div></div><p><a href="https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-Git" target="_blank" rel="noopener noreferrer">Якщо у вас mac або windows, подивіться як встановити git</a></p>
-<h4 id="налаштування-git"> Налаштування Git</h4>
-<p>Ім'я користувача</p>
-<div><pre><code>$ <span>git</span> config --global user.name <span>"firstname lastname"</span>
-$ <span>git</span> config --global user.email yourname@example.com
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p><em>Вибір редактора</em></p>
-<div><pre><code>$ <span>git</span> config --global core.editor emacs
-</code></pre>
-<div><span>1</span><br></div></div><p>Якщо ви хочете <em>перевірити використовувані налаштування</em>, можете використати команду</p>
-<div><pre><code>$ <span>git</span> config --list
-</code></pre>
-<div><span>1</span><br></div></div><p>Git <em>автоматично розмалює більшу частину свого виведення</em>, якщо ви його про це попросите.</p>
-<div><pre><code>$ <span>git</span> config --global color.ui <span>true</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>Якщо вам <em>потрібна допомога при використанні Git'а</em>, є три способи відкрити сторінку керівництва по будь-якій команді Git'а:</p>
-<div><pre><code>$ <span>git</span> <span>help</span> <span>&lt;</span>команда<span>></span>
-$ <span>git</span> <span>&lt;</span>команда<span>></span> --help
-$ <span>man</span> git-<span>&lt;</span>команда<span>></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><h4 id="створення-сховища-в-існуючому-каталозі"> Створення сховища в існуючому каталозі</h4>
-<p>Якщо ви збираєтеся почати використовувати Git для існуючого проекту, то вам необхідно перейти в проектний каталог і в командному рядку ввести</p>
-<div><pre><code>$ <span>git</span> init
-</code></pre>
-<div><span>1</span><br></div></div><p>Якщо ви хочете <em>додати під версійність контроль існуючі файли</em> (на відміну від порожнього каталогу), вам варто проіндексувати ці файли і здійснити першу фіксацію змін. Здійснити це ви можете за допомогою декількох команд git add вказують індексовані файли, а потім commit:</p>
-<div><pre><code>$ <span>git</span> <span>add</span> *.c
-$ <span>git</span> <span>add</span> README
-$ <span>git</span> commit -m <span>'initial project version'</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><h4 id="клонирование-репозитория-осуществляется-командои"> Клонирование репозитория осуществляется командой</h4>
-<div><pre><code>$ <span>git</span> clone <span>[</span>url<span>]</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>Основний інструмент, який використовується для визначення, _ які файли в якому стані знаходяться _ - це команда</p>
-<div><pre><code>$ <span>git</span> status
-</code></pre>
-<div><span>1</span><br></div></div><p>Найчастіше, у вас є група файлів, які ви не тільки не хочете автоматично додавати в репозиторій, а й бачити в списках невідстежуючих. До таких файлів зазвичай ставляться автоматично генеруються файли (різні логи, результати складання програм і т.п.). У такому випадку, ви можете створити файл <strong>.gitignore</strong> з перерахуванням шаблонів відповідних таких файлів.</p>
-<p>Якщо результат роботи команди <strong>git status</strong> недостатньо інформативний для вас - вам хочеться знати, що конкретно змінилося, а не тільки якісь файли були змінені - ви можете використовувати команду</p>
-<div><pre><code>$ <span>git</span> <span>diff</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>Видалення файлів
-Для того щоб видалити файл з Git'а, вам необхідно видалити його з відслідковуються файлів (точніше, видалити його з вашого індексу) а потім виконати Ком. Це дозволяє зробити команда</p>
-<div><pre><code>$ <span>git</span> <span>rm</span>
-</code></pre>
-<div><span>1</span><br></div></div><p><strong>git rm</strong> також видаляє файл з вашого робочого каталогу, так що ви в наступний раз не побачите його як &quot;невідстежуючий&quot;.</p>
-<p>Перегляд історії коммітов
-Після того як ви створите кілька коммітов, або ж ви склоніруете репозиторій з уже існуючою історією коммітов, ви, ймовірно, захочете озирнутися назад і дізнатися, що ж відбувалося з цим репозиторієм. Найбільш простий і в той же час потужний інструмент для цього - команда</p>
-<div><pre><code>$ <span>git</span> log
-</code></pre>
-<div><span>1</span><br></div></div><p>Знаючи ідентифікатор коммітов <em>можна подивитися що було змінено в ньому</em>:</p>
-<div><pre><code>$ <span>git</span> show 01d2c977bfe6a99f8e1e92e8ab4cb5c0ead8dd0c
-</code></pre>
-<div><span>1</span><br></div></div><p>Ідентифікатор коммітов можна скоротити до 7 символів.</p>
-<div><pre><code>$ <span>git</span> show 01d2c97
-</code></pre>
-<div><span>1</span><br></div></div><h4 id="зміна-останнього-коммітов"> Зміна останнього коммітов</h4>
-<p>Одна з типових відмін відбувається тоді, коли ви робите Комміт занадто рано, забувши додати якісь файли, або наплутали з коментарем до коммітов. Якщо вам хотілося б зробити цей Комміт ще раз, ви можете виконати commit з опцією <strong>--amend</strong>:</p>
-<div><pre><code>$ <span>git</span> commit --amend
-</code></pre>
-<div><span>1</span><br></div></div><div><pre><code>$ <span>git</span> commit -m <span>'initial commit'</span>
-$ <span>git</span> <span>add</span> forgotten_file
-$ <span>git</span> commit --amend
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>Всі три команди разом дають один Комміт - другий Комміт замінює результат першого.</p>
-<p>Можна використовувати <strong>git reset HEAD &lt;файл&gt; ...</strong> для виключення з індексу.</p>
-<p>Коли ви хочете поділитися своїми напрацюваннями, вам необхідно відправити (push) їх в головний репозиторій. Команда для цього дії проста: <strong>git push [віддалений сервер][гілка]</strong>.</p>
-<div><pre><code>$ <span>git</span> push origin master
-</code></pre>
-<div><span>1</span><br></div></div><h4 id="псевдоніми-в-git"> Псевдоніми в Git</h4>
-<p>Git не намагатиметься зробити висновок про те, яку команду ви хотіли ввести, якщо ви ввели її в повному обсязі. Якщо ви не хочете друкувати кожну команду для Git'а цілком, ви легко можете налаштувати псевдоніми (alias) для будь-якої команди за допомогою <em>git config</em>. Ось кілька прикладів псевдонімів, які ви, можливо, захочете поставити:</p>
-<div><pre><code>$ <span>git</span> config --global alias.co checkout
-$ <span>git</span> config --global alias.br branch
-$ <span>git</span> config --global alias.ci commit
-$ <span>git</span> config --global alias.st status
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>Ми навчилися додавати <em>файли</em> в індекс, але що робити якщо ми навпаки хочемо їх <em>видалити з нього</em>? Для цього нам допоможуть дві команди: <em>reset і checkout</em>.</p>
-<div><pre><code><span>git</span> reset path/to/file переводити файл зі стану staged в modified
-<span>git</span> checkout path/to/file переводить файл зі стану modified в unmodified, тобто по суті ця команда скидає зміни.
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>Хороша практика з git має на увазі відсутність Мержа коммітов при скачуванні змін в локальний репозиторій, тому використовувати <code>git pull</code> не рекомендується. Щоб історія була прямою, потрібно використовувати <code>rebase</code>, наприклад, так</p>
-<div><pre><code>$ <span>git</span> pull --rebase
-</code></pre>
-<div><span>1</span><br></div></div><h4 id="розгалуження-в-git"> Розгалуження в Git</h4>
-<p><strong>git status</strong> і <strong>git branch</strong> повідомлять нам в якій гілці ми знаходимося.
-Створення нової гілки і перемикання на неї здійснюється так:</p>
-<div><pre><code><span>git</span> checkout -b new-branch-name
-</code></pre>
-<div><span>1</span><br></div></div><p>За допомогою <strong>git checkout</strong> ми можемо перемикатися між гілками і коммітов.</p>
-<p>Злиття гілок здійснюється командою <strong>git merge</strong>. Команда git merge виконується з тієї гілки, в яку ми зливаємо зміни, а аргументом передається ім'я тієї гілки, яку ми зливаємо.</p>
-<div><pre><code>$ <span>git</span> checkout master
-$ <span>git</span> merge new-feature
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><h4 id="корисні-посилання"> Корисні посилання</h4>
-<ul>
-<li><a href="https://ru.hexlet.io/courses/intro_to_git?ref=147142" target="_blank" rel="noopener noreferrer">Курс від хекслета - системи контролю версій (GIT)</a></li>
-<li><a href="https://git-scm.com/book/ru/v2" target="_blank" rel="noopener noreferrer">Книга Pro Git, автори Scott Chacon и Ben Straub</a></li>
-<li><a href="https://try.github.io/levels/1/challenges/1" target="_blank" rel="noopener noreferrer">Туторіал від Гітхаба</a></li>
-<li><a href="https://learngitbranching.js.org/" target="_blank" rel="noopener noreferrer">Learn Git Branching</a></li>
-<li><a href="https://git-scm.com/downloads/guis" target="_blank" rel="noopener noreferrer">GUI Clients</a></li>
-<li><a href="https://github.com/k88hudson/git-flight-rules" target="_blank" rel="noopener noreferrer">Flight rules for git</a></li>
-<li><a href="https://htmlacademy.ru/blog/27-how-to-squash-commits-and-why-it-is-needed" target="_blank" rel="noopener noreferrer">Як склеїти коммітов і навіщо це потрібно</a></li>
-<li><a href="https://opensource.com/article/19/6/what-tig" target="_blank" rel="noopener noreferrer">How to use Tig to browse Git logs</a></li>
-<li><a href="https://www.freshconsulting.com/atomic-commits/" target="_blank" rel="noopener noreferrer">Keep your commits “atomic”</a></li>
-<li><a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank" rel="noopener noreferrer">Gitflow Workflow</a></li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Вступ до JavaScript</title>
-      <link>https://test-osvita-code-v2.github.io/web/web/lessons/7/</link>
-      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/7/</guid>
-      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">Вступ до JavaScript</source>
-      <description>Hello JavaScript</description>
-      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="вступ-до-javascript"> Вступ до JavaScript</h1>
-<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
-<ul>
-<li><a href="https://btholt.github.io/intro-to-web-dev-v2/programming-fundamentals/" target="_blank" rel="noopener noreferrer">Programming Fundamentals</a></li>
-</ul>
-<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
-<p>Зареєструйтесь, будь ласка ось тут - <a href="https://www.codewars.com/r/myfRzw" target="_blank" rel="noopener noreferrer">codewars.com</a><br>
-Впишіть ваш клан, як <code>siversk</code><br>
-Перед реєстрацією вам потрібно буде вибрати мову, натисніть, наприклад, на JavaScript, не зважайте зараз на це особливої уваги</p>
-<p><img src="https://test-osvita-code-v2.github.io/web/assets/images/lang.png" alt="lang" /></p>
-<p>та, щоб зрозуміти чи ви реальна людина, вам сервіс запропонує виконати вправу, зробіть ось так</p>
-<p><img src="https://test-osvita-code-v2.github.io/web/assets/images/js.jpg" alt="lang" /></p>
-<p>Виконайте наступні вправи:</p>
-<ul>
-<li><a href="https://www.codewars.com/kata/multiply/train/javascript" target="_blank" rel="noopener noreferrer">multiply</a></li>
-<li><a href="https://www.codewars.com/kata/opposite-number/train/javascript" target="_blank" rel="noopener noreferrer">opposite-number</a></li>
-</ul>
-<h3 id="домашнє-завдання"> Домашнє завдання</h3>
-<ul>
-<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">&quot;Арифметика&quot;, &quot;Строки&quot;, &quot;Переменные&quot;</a></li>
-<li><a href="https://www.codewars.com/kata/sum-of-positive/train/javascript" target="_blank" rel="noopener noreferrer">sum-of-positive</a></li>
-</ul>
-]]></content:encoded>
-      <enclosure url="https://test-osvita-code-v2.github.io/web/assets/images/lang.png" type="image/png"/>
-    </item>
-    <item>
-      <title>Web programming</title>
-      <link>https://test-osvita-code-v2.github.io/web/web/lessons/</link>
-      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/</guid>
-      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">Web programming</source>
-      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="web-programming"> Web programming</h1>
-<h2 id="навчись-створювати-саити"> Навчись створювати сайти</h2>
-<p><img src="https://test-osvita-code-v2.github.io/web/assets/images/web.jpg" alt="web" /></p>
-<p><strong><em>Вебпрограмування</em></strong> — галузь веброзробки і різновид дизайну, в завдання якої входить проєктування користувальницьких вебінтерфейсів для сайтів або вебдодатків. Вебдизайнери проєктують логічну структуру вебсторінок, продумують найбільш зручні рішення подачі інформації, а також займаються художнім оформленням вебпроєкту. В результаті перетину двох галузей людської діяльності грамотний вебдизайнер повинен бути знайомий з останніми вебтехнологіями і володіти відповідними художніми якостями.</p>
-<p>На цьому курсі вас чекає 12 уроків по вебпрограмуванню.</p>
-]]></content:encoded>
-      <enclosure url="https://test-osvita-code-v2.github.io/web/assets/images/web.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>Тест на перевірку знань</title>
@@ -784,32 +810,6 @@ $ <span>git</span> merge new-feature
         nextButton.addEventListener("click", showNextSlide);
     })();
 </script>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>The DOM</title>
-      <link>https://test-osvita-code-v2.github.io/web/web/lessons/9/</link>
-      <guid>https://test-osvita-code-v2.github.io/web/web/lessons/9/</guid>
-      <source url="https://test-osvita-code-v2.github.io/web/web/rss.xml">The DOM</source>
-      <description>Hello DOM</description>
-      <pubDate>Fri, 11 Jun 2021 13:11:34 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="the-dom"> The DOM</h1>
-<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
-<ul>
-<li><a href="https://btholt.github.io/intro-to-web-dev-v2/dom/" target="_blank" rel="noopener noreferrer">The DOM</a></li>
-</ul>
-<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
-<ul>
-<li><a href="https://btholt.github.io/intro-to-web-dev-v2/js-project/" target="_blank" rel="noopener noreferrer">JavaScript, HTML, and CSS Project</a></li>
-</ul>
-<h3 id="домашнє-завдання"> Домашнє завдання</h3>
-<ul>
-<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">&quot;Свойства и Методы, Определение функций&quot;</a></li>
-<li><a href="https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b" target="_blank" rel="noopener noreferrer">Cat years, Dog years</a></li>
-<li><a href="https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097" target="_blank" rel="noopener noreferrer">Century From Year</a></li>
-<li><a href="https://www.codewars.com/kata/5a360620f28b82a711000047" target="_blank" rel="noopener noreferrer">Define a card suit</a></li>
-<li><a href="https://www.codewars.com/kata/5a34b80155519e1a00000009" target="_blank" rel="noopener noreferrer">Multiple of index</a></li>
-</ul>
 ]]></content:encoded>
     </item>
   </channel>
