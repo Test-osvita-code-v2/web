@@ -6,7 +6,7 @@
   <author>
     <name>Serhii73, RenatTOP, Anat0liy12</name>
   </author>
-  <updated>2021-06-12T10:18:31.683Z</updated>
+  <updated>2022-07-02T21:08:11.951Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://test-osvita-code-v2.github.io/web/web/atom.xml"/>
   <link rel="alternate" href="https://test-osvita-code-v2.github.io/web/web/"/>
@@ -123,31 +123,46 @@
     <rights>Copyright by Serhii73, RenatTOP, Anat0liy12</rights>
   </entry>
   <entry>
-    <title type="html">AJAX and Libraries</title>
-    <id>https://test-osvita-code-v2.github.io/web/web/lessons/10/</id>
-    <link href="https://test-osvita-code-v2.github.io/web/web/lessons/10/"/>
+    <title type="html">GitHub</title>
+    <id>https://test-osvita-code-v2.github.io/web/web/lessons/12/</id>
+    <link href="https://test-osvita-code-v2.github.io/web/web/lessons/12/"/>
     <updated>2021-06-11T17:12:21.000Z</updated>
-    <summary type="html"><![CDATA[Hello AJAX]]></summary>
-    <content type="html"><![CDATA[<h1 id="ajax-and-libraries"> AJAX and Libraries</h1>
+    <summary type="html"><![CDATA[Hello GitHub]]></summary>
+    <content type="html"><![CDATA[<h1 id="github"> GitHub</h1>
 <h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
 <ul>
-<li><a href="https://btholt.github.io/intro-to-web-dev-v2/ajax/" target="_blank" rel="noopener noreferrer">AJAX</a></li>
-<li><a href="https://btholt.github.io/intro-to-web-dev-v2/libraries/" target="_blank" rel="noopener noreferrer">Integrating with Other People's Libraries</a></li>
-</ul>
-<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
-<p>Виконайте наступні вправи:</p>
-<ul>
-<li><a href="https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036" target="_blank" rel="noopener noreferrer">CSV representation of array</a></li>
-<li><a href="https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce" target="_blank" rel="noopener noreferrer">Multiplication table for number</a></li>
-<li><a href="https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba" target="_blank" rel="noopener noreferrer">Type of sum</a></li>
-<li><a href="https://www.codewars.com/kata/5a2be17aee1aaefe2a000151" target="_blank" rel="noopener noreferrer">Array plus array</a></li>
-<li><a href="https://www.codewars.com/kata/5a2b703dc5e2845c0900005a" target="_blank" rel="noopener noreferrer">Can we divide it?</a></li>
+<li><a href="https://lab.github.com/githubtraining/introduction-to-github" target="_blank" rel="noopener noreferrer">Introduction to GitHub</a></li>
+<li><a href="https://lab.github.com/githubtraining/communicating-using-markdown" target="_blank" rel="noopener noreferrer">Communicating using Markdown</a></li>
+<li><a href="https://lab.github.com/githubtraining/github-pages" target="_blank" rel="noopener noreferrer">GitHub Pages</a></li>
+<li><a href="https://github.com/barryclark/jekyll-now" target="_blank" rel="noopener noreferrer">jekyll-now</a></li>
+<li><a href="https://getpoole.com/" target="_blank" rel="noopener noreferrer">Poole</a></li>
 </ul>
 <h3 id="домашнє-завдання"> Домашнє завдання</h3>
+<p>Створіть власний проєкт за допомогою тих знань, що ви отримали.</p>
+]]></content>
+    <author>
+      <name>Serhii73, RenatTOP, Anat0liy12</name>
+    </author>
+    <contributor>
+      <name>Serhii73, RenatTOP, Anat0liy12</name>
+    </contributor>
+    <published>2021-06-11T13:11:34.000Z</published>
+    <rights>Copyright by Serhii73, RenatTOP, Anat0liy12</rights>
+  </entry>
+  <entry>
+    <title type="html">Випускні роботи учнів</title>
+    <id>https://test-osvita-code-v2.github.io/web/web/lessons/13/</id>
+    <link href="https://test-osvita-code-v2.github.io/web/web/lessons/13/"/>
+    <updated>2022-07-02T21:05:59.000Z</updated>
+    <summary type="html"><![CDATA[Випускні роботи]]></summary>
+    <content type="html"><![CDATA[<h1 id="випускні-роботи-учнів"> Випускні роботи учнів</h1>
 <ul>
-<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">&quot;Пройдіть до кінця увесь курс&quot;</a></li>
-<li><a href="https://www.codewars.com/kata/5a0be7ea8ba914fc9c00006b" target="_blank" rel="noopener noreferrer">The falling speed of petals</a></li>
-<li><a href="https://www.codewars.com/kata/5a023c426975981341000014" target="_blank" rel="noopener noreferrer">Third Angle of a Triangle</a></li>
+<li>Ренат - <a href="https://renattop.herokuapp.com" target="_blank" rel="noopener noreferrer">Фан сайт по грі Heroes of the Storm</a></li>
+<li>Анатолій - <a href="https://Anat0liy12.github.io" target="_blank" rel="noopener noreferrer">Фан сайт по грі StarCraft 2</a></li>
+<li>Денис - <a href="https://banzai2003.github.io" target="_blank" rel="noopener noreferrer">Відгуки про користування гаджетами</a></li>
+<li>Валерія - <a href="https://lera1711.github.io" target="_blank" rel="noopener noreferrer">Технології майбутнього</a></li>
+<li>Олексій - <a href="https://alexxeyy123.github.io/mysitepubg/" target="_blank" rel="noopener noreferrer">Фан сайт по грі PlayerUnknown’s Battlegrounds</a></li>
+<li>Максим - <a href="https://football763.github.io" target="_blank" rel="noopener noreferrer">Порівняння футбольних клубів та футболістів</a></li>
 </ul>
 ]]></content>
     <author>
@@ -292,58 +307,6 @@ $ <span>git</span> merge new-feature
     <rights>Copyright by Serhii73, RenatTOP, Anat0liy12</rights>
   </entry>
   <entry>
-    <title type="html">Випускні роботи учнів</title>
-    <id>https://test-osvita-code-v2.github.io/web/web/lessons/13/</id>
-    <link href="https://test-osvita-code-v2.github.io/web/web/lessons/13/"/>
-    <updated>2021-06-11T17:12:21.000Z</updated>
-    <summary type="html"><![CDATA[Випускні роботи]]></summary>
-    <content type="html"><![CDATA[<h1 id="випускні-роботи-учнів"> Випускні роботи учнів</h1>
-<ul>
-<li>Ренат - <a href="https://renattop.me" target="_blank" rel="noopener noreferrer">Фан сайт по грі Heroes of the Storm</a></li>
-<li>Анатолій - <a href="https://Anat0liy12.github.io" target="_blank" rel="noopener noreferrer">Фан сайт по грі StarCraft 2</a></li>
-<li>Денис - <a href="https://banzai2003.github.io" target="_blank" rel="noopener noreferrer">Відгуки про користування гаджетами</a></li>
-<li>Валерія - <a href="https://lera1711.github.io" target="_blank" rel="noopener noreferrer">Технології майбутнього</a></li>
-<li>Олексій - <a href="https://alexxeyy123.github.io/mysitepubg/" target="_blank" rel="noopener noreferrer">Фан сайт по грі PlayerUnknown’s Battlegrounds</a></li>
-<li>Максим - <a href="https://football763.github.io" target="_blank" rel="noopener noreferrer">Порівняння футбольних клубів та футболістів</a></li>
-</ul>
-]]></content>
-    <author>
-      <name>Serhii73, RenatTOP, Anat0liy12</name>
-    </author>
-    <contributor>
-      <name>Serhii73, RenatTOP, Anat0liy12</name>
-    </contributor>
-    <published>2021-06-11T13:11:34.000Z</published>
-    <rights>Copyright by Serhii73, RenatTOP, Anat0liy12</rights>
-  </entry>
-  <entry>
-    <title type="html">GitHub</title>
-    <id>https://test-osvita-code-v2.github.io/web/web/lessons/12/</id>
-    <link href="https://test-osvita-code-v2.github.io/web/web/lessons/12/"/>
-    <updated>2021-06-11T17:12:21.000Z</updated>
-    <summary type="html"><![CDATA[Hello GitHub]]></summary>
-    <content type="html"><![CDATA[<h1 id="github"> GitHub</h1>
-<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
-<ul>
-<li><a href="https://lab.github.com/githubtraining/introduction-to-github" target="_blank" rel="noopener noreferrer">Introduction to GitHub</a></li>
-<li><a href="https://lab.github.com/githubtraining/communicating-using-markdown" target="_blank" rel="noopener noreferrer">Communicating using Markdown</a></li>
-<li><a href="https://lab.github.com/githubtraining/github-pages" target="_blank" rel="noopener noreferrer">GitHub Pages</a></li>
-<li><a href="https://github.com/barryclark/jekyll-now" target="_blank" rel="noopener noreferrer">jekyll-now</a></li>
-<li><a href="https://getpoole.com/" target="_blank" rel="noopener noreferrer">Poole</a></li>
-</ul>
-<h3 id="домашнє-завдання"> Домашнє завдання</h3>
-<p>Створіть власний проєкт за допомогою тих знань, що ви отримали.</p>
-]]></content>
-    <author>
-      <name>Serhii73, RenatTOP, Anat0liy12</name>
-    </author>
-    <contributor>
-      <name>Serhii73, RenatTOP, Anat0liy12</name>
-    </contributor>
-    <published>2021-06-11T13:11:34.000Z</published>
-    <rights>Copyright by Serhii73, RenatTOP, Anat0liy12</rights>
-  </entry>
-  <entry>
     <title type="html">HTML</title>
     <id>https://test-osvita-code-v2.github.io/web/web/lessons/2/</id>
     <link href="https://test-osvita-code-v2.github.io/web/web/lessons/2/"/>
@@ -373,47 +336,6 @@ $ <span>git</span> merge new-feature
 <p>Якщо ви зробили завдання вище, то є ще додаткове, <a href="https://htmlacademy.ru/courses/basic-html" target="_blank" rel="noopener noreferrer">https://htmlacademy.ru/courses/basic-html</a>, з цього сайту пройдіть безкоштовні завдання &quot;Основы HTML&quot;.</p>
 </li>
 </ul>
-]]></content>
-    <author>
-      <name>Serhii73, RenatTOP, Anat0liy12</name>
-    </author>
-    <contributor>
-      <name>Serhii73, RenatTOP, Anat0liy12</name>
-    </contributor>
-    <published>2021-06-11T13:11:34.000Z</published>
-    <rights>Copyright by Serhii73, RenatTOP, Anat0liy12</rights>
-  </entry>
-  <entry>
-    <title type="html">CSS</title>
-    <id>https://test-osvita-code-v2.github.io/web/web/lessons/3/</id>
-    <link href="https://test-osvita-code-v2.github.io/web/web/lessons/3/"/>
-    <updated>2021-06-11T17:12:21.000Z</updated>
-    <summary type="html"><![CDATA[Пройдемо заняття по CSS]]></summary>
-    <content type="html"><![CDATA[<h1 id="css"> CSS</h1>
-<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
-<p>На цьому занятті ми почнемо вчити CSS.<br>
-Для цього ми пройдемо наступні заняття з ресурсу фронтендмастерс:</p>
-<ul>
-<li><a href="https://osvita-code.github.io/intro-to-web-dev-v2/basic-css" target="_blank" rel="noopener noreferrer">Basic CSS</a></li>
-<li><a href="https://osvita-code.github.io/intro-to-web-dev-v2/selectors" target="_blank" rel="noopener noreferrer">CSS Selectors and the Cascade</a></li>
-<li><a href="https://osvita-code.github.io/intro-to-web-dev-v2/layout-css" target="_blank" rel="noopener noreferrer">Layout CSS</a></li>
-</ul>
-<p>Також поговоримо про валідатори:</p>
-<ul>
-<li><a href="http://validator.w3.org/" target="_blank" rel="noopener noreferrer">HTML validator</a></li>
-<li><a href="http://jigsaw.w3.org/css-validator/" target="_blank" rel="noopener noreferrer">CSS validator</a></li>
-</ul>
-<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
-<ul>
-<li>
-<p><a href="https://osvita-code.github.io/bootcamp/css" target="_blank" rel="noopener noreferrer">bootcamp-css</a> - прочитайте це.</p>
-</li>
-<li>
-<p>Зробіть на кодпені один в один сторінку про Дарта Вейдера</p>
-</li>
-</ul>
-<p><img src="https://test-osvita-code-v2.github.io/web/assets/images/darth_vader.png" alt="дарт вейдер" /></p>
-<p>Щоб не набирати текст, використовуйте таку комбінацію <code>lorem10</code>, де 10 - це скільки слів ви хочете, щоб було у реченні.</p>
 ]]></content>
     <author>
       <name>Serhii73, RenatTOP, Anat0liy12</name>
@@ -516,6 +438,43 @@ $ <span>git</span> merge new-feature
     <rights>Copyright by Serhii73, RenatTOP, Anat0liy12</rights>
   </entry>
   <entry>
+    <title type="html">AJAX and Libraries</title>
+    <id>https://test-osvita-code-v2.github.io/web/web/lessons/10/</id>
+    <link href="https://test-osvita-code-v2.github.io/web/web/lessons/10/"/>
+    <updated>2021-06-11T17:12:21.000Z</updated>
+    <summary type="html"><![CDATA[Hello AJAX]]></summary>
+    <content type="html"><![CDATA[<h1 id="ajax-and-libraries"> AJAX and Libraries</h1>
+<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
+<ul>
+<li><a href="https://btholt.github.io/intro-to-web-dev-v2/ajax/" target="_blank" rel="noopener noreferrer">AJAX</a></li>
+<li><a href="https://btholt.github.io/intro-to-web-dev-v2/libraries/" target="_blank" rel="noopener noreferrer">Integrating with Other People's Libraries</a></li>
+</ul>
+<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
+<p>Виконайте наступні вправи:</p>
+<ul>
+<li><a href="https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036" target="_blank" rel="noopener noreferrer">CSV representation of array</a></li>
+<li><a href="https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce" target="_blank" rel="noopener noreferrer">Multiplication table for number</a></li>
+<li><a href="https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba" target="_blank" rel="noopener noreferrer">Type of sum</a></li>
+<li><a href="https://www.codewars.com/kata/5a2be17aee1aaefe2a000151" target="_blank" rel="noopener noreferrer">Array plus array</a></li>
+<li><a href="https://www.codewars.com/kata/5a2b703dc5e2845c0900005a" target="_blank" rel="noopener noreferrer">Can we divide it?</a></li>
+</ul>
+<h3 id="домашнє-завдання"> Домашнє завдання</h3>
+<ul>
+<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">&quot;Пройдіть до кінця увесь курс&quot;</a></li>
+<li><a href="https://www.codewars.com/kata/5a0be7ea8ba914fc9c00006b" target="_blank" rel="noopener noreferrer">The falling speed of petals</a></li>
+<li><a href="https://www.codewars.com/kata/5a023c426975981341000014" target="_blank" rel="noopener noreferrer">Third Angle of a Triangle</a></li>
+</ul>
+]]></content>
+    <author>
+      <name>Serhii73, RenatTOP, Anat0liy12</name>
+    </author>
+    <contributor>
+      <name>Serhii73, RenatTOP, Anat0liy12</name>
+    </contributor>
+    <published>2021-06-11T13:11:34.000Z</published>
+    <rights>Copyright by Serhii73, RenatTOP, Anat0liy12</rights>
+  </entry>
+  <entry>
     <title type="html">CSS Frameworks</title>
     <id>https://test-osvita-code-v2.github.io/web/web/lessons/5/</id>
     <link href="https://test-osvita-code-v2.github.io/web/web/lessons/5/"/>
@@ -581,44 +540,6 @@ $ <span>git</span> merge new-feature
     <rights>Copyright by Serhii73, RenatTOP, Anat0liy12</rights>
   </entry>
   <entry>
-    <title type="html">Вступ до JavaScript</title>
-    <id>https://test-osvita-code-v2.github.io/web/web/lessons/7/</id>
-    <link href="https://test-osvita-code-v2.github.io/web/web/lessons/7/"/>
-    <updated>2021-06-11T17:12:21.000Z</updated>
-    <summary type="html"><![CDATA[Hello JavaScript]]></summary>
-    <content type="html"><![CDATA[<h1 id="вступ-до-javascript"> Вступ до JavaScript</h1>
-<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
-<ul>
-<li><a href="https://btholt.github.io/intro-to-web-dev-v2/programming-fundamentals/" target="_blank" rel="noopener noreferrer">Programming Fundamentals</a></li>
-</ul>
-<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
-<p>Зареєструйтесь, будь ласка ось тут - <a href="https://www.codewars.com/r/myfRzw" target="_blank" rel="noopener noreferrer">codewars.com</a><br>
-Впишіть ваш клан, як <code>siversk</code><br>
-Перед реєстрацією вам потрібно буде вибрати мову, натисніть, наприклад, на JavaScript, не зважайте зараз на це особливої уваги</p>
-<p><img src="https://test-osvita-code-v2.github.io/web/assets/images/lang.png" alt="lang" /></p>
-<p>та, щоб зрозуміти чи ви реальна людина, вам сервіс запропонує виконати вправу, зробіть ось так</p>
-<p><img src="https://test-osvita-code-v2.github.io/web/assets/images/js.jpg" alt="lang" /></p>
-<p>Виконайте наступні вправи:</p>
-<ul>
-<li><a href="https://www.codewars.com/kata/multiply/train/javascript" target="_blank" rel="noopener noreferrer">multiply</a></li>
-<li><a href="https://www.codewars.com/kata/opposite-number/train/javascript" target="_blank" rel="noopener noreferrer">opposite-number</a></li>
-</ul>
-<h3 id="домашнє-завдання"> Домашнє завдання</h3>
-<ul>
-<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">&quot;Арифметика&quot;, &quot;Строки&quot;, &quot;Переменные&quot;</a></li>
-<li><a href="https://www.codewars.com/kata/sum-of-positive/train/javascript" target="_blank" rel="noopener noreferrer">sum-of-positive</a></li>
-</ul>
-]]></content>
-    <author>
-      <name>Serhii73, RenatTOP, Anat0liy12</name>
-    </author>
-    <contributor>
-      <name>Serhii73, RenatTOP, Anat0liy12</name>
-    </contributor>
-    <published>2021-06-11T13:11:34.000Z</published>
-    <rights>Copyright by Serhii73, RenatTOP, Anat0liy12</rights>
-  </entry>
-  <entry>
     <title type="html">Command Line</title>
     <id>https://test-osvita-code-v2.github.io/web/web/lessons/6/</id>
     <link href="https://test-osvita-code-v2.github.io/web/web/lessons/6/"/>
@@ -658,48 +579,33 @@ $ <span>git</span> merge new-feature
     <rights>Copyright by Serhii73, RenatTOP, Anat0liy12</rights>
   </entry>
   <entry>
-    <title type="html">The DOM</title>
-    <id>https://test-osvita-code-v2.github.io/web/web/lessons/9/</id>
-    <link href="https://test-osvita-code-v2.github.io/web/web/lessons/9/"/>
+    <title type="html">Вступ до JavaScript</title>
+    <id>https://test-osvita-code-v2.github.io/web/web/lessons/7/</id>
+    <link href="https://test-osvita-code-v2.github.io/web/web/lessons/7/"/>
     <updated>2021-06-11T17:12:21.000Z</updated>
-    <summary type="html"><![CDATA[Hello DOM]]></summary>
-    <content type="html"><![CDATA[<h1 id="the-dom"> The DOM</h1>
+    <summary type="html"><![CDATA[Hello JavaScript]]></summary>
+    <content type="html"><![CDATA[<h1 id="вступ-до-javascript"> Вступ до JavaScript</h1>
 <h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
 <ul>
-<li><a href="https://btholt.github.io/intro-to-web-dev-v2/dom/" target="_blank" rel="noopener noreferrer">The DOM</a></li>
+<li><a href="https://btholt.github.io/intro-to-web-dev-v2/programming-fundamentals/" target="_blank" rel="noopener noreferrer">Programming Fundamentals</a></li>
 </ul>
 <h3 id="практична-частина-заняття"> Практична частина заняття</h3>
+<p>Зареєструйтесь, будь ласка ось тут - <a href="https://www.codewars.com/r/myfRzw" target="_blank" rel="noopener noreferrer">codewars.com</a><br>
+Впишіть ваш клан, як <code>siversk</code><br>
+Перед реєстрацією вам потрібно буде вибрати мову, натисніть, наприклад, на JavaScript, не зважайте зараз на це особливої уваги</p>
+<p><img src="https://test-osvita-code-v2.github.io/web/assets/images/lang.png" alt="lang" /></p>
+<p>та, щоб зрозуміти чи ви реальна людина, вам сервіс запропонує виконати вправу, зробіть ось так</p>
+<p><img src="https://test-osvita-code-v2.github.io/web/assets/images/js.jpg" alt="lang" /></p>
+<p>Виконайте наступні вправи:</p>
 <ul>
-<li><a href="https://btholt.github.io/intro-to-web-dev-v2/js-project/" target="_blank" rel="noopener noreferrer">JavaScript, HTML, and CSS Project</a></li>
+<li><a href="https://www.codewars.com/kata/multiply/train/javascript" target="_blank" rel="noopener noreferrer">multiply</a></li>
+<li><a href="https://www.codewars.com/kata/opposite-number/train/javascript" target="_blank" rel="noopener noreferrer">opposite-number</a></li>
 </ul>
 <h3 id="домашнє-завдання"> Домашнє завдання</h3>
 <ul>
-<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">&quot;Свойства и Методы, Определение функций&quot;</a></li>
-<li><a href="https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b" target="_blank" rel="noopener noreferrer">Cat years, Dog years</a></li>
-<li><a href="https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097" target="_blank" rel="noopener noreferrer">Century From Year</a></li>
-<li><a href="https://www.codewars.com/kata/5a360620f28b82a711000047" target="_blank" rel="noopener noreferrer">Define a card suit</a></li>
-<li><a href="https://www.codewars.com/kata/5a34b80155519e1a00000009" target="_blank" rel="noopener noreferrer">Multiple of index</a></li>
+<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">&quot;Арифметика&quot;, &quot;Строки&quot;, &quot;Переменные&quot;</a></li>
+<li><a href="https://www.codewars.com/kata/sum-of-positive/train/javascript" target="_blank" rel="noopener noreferrer">sum-of-positive</a></li>
 </ul>
-]]></content>
-    <author>
-      <name>Serhii73, RenatTOP, Anat0liy12</name>
-    </author>
-    <contributor>
-      <name>Serhii73, RenatTOP, Anat0liy12</name>
-    </contributor>
-    <published>2021-06-11T13:11:34.000Z</published>
-    <rights>Copyright by Serhii73, RenatTOP, Anat0liy12</rights>
-  </entry>
-  <entry>
-    <title type="html">Web programming</title>
-    <id>https://test-osvita-code-v2.github.io/web/web/lessons/</id>
-    <link href="https://test-osvita-code-v2.github.io/web/web/lessons/"/>
-    <updated>2021-06-11T17:12:21.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="web-programming"> Web programming</h1>
-<h2 id="навчись-створювати-саити"> Навчись створювати сайти</h2>
-<p><img src="https://test-osvita-code-v2.github.io/web/assets/images/web.jpg" alt="web" /></p>
-<p><strong><em>Вебпрограмування</em></strong> — галузь веброзробки і різновид дизайну, в завдання якої входить проєктування користувальницьких вебінтерфейсів для сайтів або вебдодатків. Вебдизайнери проєктують логічну структуру вебсторінок, продумують найбільш зручні рішення подачі інформації, а також займаються художнім оформленням вебпроєкту. В результаті перетину двох галузей людської діяльності грамотний вебдизайнер повинен бути знайомий з останніми вебтехнологіями і володіти відповідними художніми якостями.</p>
-<p>На цьому курсі вас чекає 12 уроків по вебпрограмуванню.</p>
 ]]></content>
     <author>
       <name>Serhii73, RenatTOP, Anat0liy12</name>
@@ -744,6 +650,100 @@ $ <span>git</span> merge new-feature
 <li><a href="https://www.codewars.com/kata/5ad0d8356165e63c140014d4" target="_blank" rel="noopener noreferrer">Student's Final Grade</a></li>
 <li><a href="https://www.codewars.com/kata/5aa736a455f906981800360d" target="_blank" rel="noopener noreferrer">The Feast of Many Beasts</a></li>
 <li><a href="https://www.codewars.com/kata/5a805d8cafa10f8b930005ba" target="_blank" rel="noopener noreferrer">Find Nearest square number</a></li>
+</ul>
+]]></content>
+    <author>
+      <name>Serhii73, RenatTOP, Anat0liy12</name>
+    </author>
+    <contributor>
+      <name>Serhii73, RenatTOP, Anat0liy12</name>
+    </contributor>
+    <published>2021-06-11T13:11:34.000Z</published>
+    <rights>Copyright by Serhii73, RenatTOP, Anat0liy12</rights>
+  </entry>
+  <entry>
+    <title type="html">CSS</title>
+    <id>https://test-osvita-code-v2.github.io/web/web/lessons/3/</id>
+    <link href="https://test-osvita-code-v2.github.io/web/web/lessons/3/"/>
+    <updated>2021-06-11T17:12:21.000Z</updated>
+    <summary type="html"><![CDATA[Пройдемо заняття по CSS]]></summary>
+    <content type="html"><![CDATA[<h1 id="css"> CSS</h1>
+<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
+<p>На цьому занятті ми почнемо вчити CSS.<br>
+Для цього ми пройдемо наступні заняття з ресурсу фронтендмастерс:</p>
+<ul>
+<li><a href="https://osvita-code.github.io/intro-to-web-dev-v2/basic-css" target="_blank" rel="noopener noreferrer">Basic CSS</a></li>
+<li><a href="https://osvita-code.github.io/intro-to-web-dev-v2/selectors" target="_blank" rel="noopener noreferrer">CSS Selectors and the Cascade</a></li>
+<li><a href="https://osvita-code.github.io/intro-to-web-dev-v2/layout-css" target="_blank" rel="noopener noreferrer">Layout CSS</a></li>
+</ul>
+<p>Також поговоримо про валідатори:</p>
+<ul>
+<li><a href="http://validator.w3.org/" target="_blank" rel="noopener noreferrer">HTML validator</a></li>
+<li><a href="http://jigsaw.w3.org/css-validator/" target="_blank" rel="noopener noreferrer">CSS validator</a></li>
+</ul>
+<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
+<ul>
+<li>
+<p><a href="https://osvita-code.github.io/bootcamp/css" target="_blank" rel="noopener noreferrer">bootcamp-css</a> - прочитайте це.</p>
+</li>
+<li>
+<p>Зробіть на кодпені один в один сторінку про Дарта Вейдера</p>
+</li>
+</ul>
+<p><img src="https://test-osvita-code-v2.github.io/web/assets/images/darth_vader.png" alt="дарт вейдер" /></p>
+<p>Щоб не набирати текст, використовуйте таку комбінацію <code>lorem10</code>, де 10 - це скільки слів ви хочете, щоб було у реченні.</p>
+]]></content>
+    <author>
+      <name>Serhii73, RenatTOP, Anat0liy12</name>
+    </author>
+    <contributor>
+      <name>Serhii73, RenatTOP, Anat0liy12</name>
+    </contributor>
+    <published>2021-06-11T13:11:34.000Z</published>
+    <rights>Copyright by Serhii73, RenatTOP, Anat0liy12</rights>
+  </entry>
+  <entry>
+    <title type="html">Web programming</title>
+    <id>https://test-osvita-code-v2.github.io/web/web/lessons/</id>
+    <link href="https://test-osvita-code-v2.github.io/web/web/lessons/"/>
+    <updated>2021-06-11T17:12:21.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="web-programming"> Web programming</h1>
+<h2 id="навчись-створювати-саити"> Навчись створювати сайти</h2>
+<p><img src="https://test-osvita-code-v2.github.io/web/assets/images/web.jpg" alt="web" /></p>
+<p><strong><em>Вебпрограмування</em></strong> — галузь веброзробки і різновид дизайну, в завдання якої входить проєктування користувальницьких вебінтерфейсів для сайтів або вебдодатків. Вебдизайнери проєктують логічну структуру вебсторінок, продумують найбільш зручні рішення подачі інформації, а також займаються художнім оформленням вебпроєкту. В результаті перетину двох галузей людської діяльності грамотний вебдизайнер повинен бути знайомий з останніми вебтехнологіями і володіти відповідними художніми якостями.</p>
+<p>На цьому курсі вас чекає 12 уроків по вебпрограмуванню.</p>
+]]></content>
+    <author>
+      <name>Serhii73, RenatTOP, Anat0liy12</name>
+    </author>
+    <contributor>
+      <name>Serhii73, RenatTOP, Anat0liy12</name>
+    </contributor>
+    <published>2021-06-11T13:11:34.000Z</published>
+    <rights>Copyright by Serhii73, RenatTOP, Anat0liy12</rights>
+  </entry>
+  <entry>
+    <title type="html">The DOM</title>
+    <id>https://test-osvita-code-v2.github.io/web/web/lessons/9/</id>
+    <link href="https://test-osvita-code-v2.github.io/web/web/lessons/9/"/>
+    <updated>2021-06-11T17:12:21.000Z</updated>
+    <summary type="html"><![CDATA[Hello DOM]]></summary>
+    <content type="html"><![CDATA[<h1 id="the-dom"> The DOM</h1>
+<h3 id="теоретична-частина-заняття"> Теоретична частина заняття</h3>
+<ul>
+<li><a href="https://btholt.github.io/intro-to-web-dev-v2/dom/" target="_blank" rel="noopener noreferrer">The DOM</a></li>
+</ul>
+<h3 id="практична-частина-заняття"> Практична частина заняття</h3>
+<ul>
+<li><a href="https://btholt.github.io/intro-to-web-dev-v2/js-project/" target="_blank" rel="noopener noreferrer">JavaScript, HTML, and CSS Project</a></li>
+</ul>
+<h3 id="домашнє-завдання"> Домашнє завдання</h3>
+<ul>
+<li><a href="https://ru.code-basics.com/languages/javascript" target="_blank" rel="noopener noreferrer">&quot;Свойства и Методы, Определение функций&quot;</a></li>
+<li><a href="https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b" target="_blank" rel="noopener noreferrer">Cat years, Dog years</a></li>
+<li><a href="https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097" target="_blank" rel="noopener noreferrer">Century From Year</a></li>
+<li><a href="https://www.codewars.com/kata/5a360620f28b82a711000047" target="_blank" rel="noopener noreferrer">Define a card suit</a></li>
+<li><a href="https://www.codewars.com/kata/5a34b80155519e1a00000009" target="_blank" rel="noopener noreferrer">Multiple of index</a></li>
 </ul>
 ]]></content>
     <author>
