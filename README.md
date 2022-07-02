@@ -1,10 +1,10 @@
 # Osvita-Code Web programming
 
-#### Клонувати dev гілку з назвою
+#### Клонувати dev гілку з назвою web-dev
 ```bash
 git clone https://github.com/test-osvita-code-v2/web.git --brach dev web-dev
 ```
-#### Поруч клонувати main гілку з назвою
+#### Поруч клонувати main гілку з назвою web
 ```bash
 git clone https://github.com/test-osvita-code-v2/web.git --brach main web
 ```
